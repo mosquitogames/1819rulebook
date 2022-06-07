@@ -5,6 +5,11 @@ permalink: /sequence-of-play
 nav_order: 2
 ---
 
+The player who rolls the highest on a D4 is the First Player this round.
+
+After every round (i.e., after every player has taken their turn), the next player clockwise becomes the First Player.
+
+
 Every round of gameplay progresses in five phases.
 
 ## 1. Reveal and resolve an Event card
@@ -13,15 +18,17 @@ Every round of gameplay progresses in five phases.
 
 Events marked Immediate must be resolved before proceeding to next phase.
 
-## 2. Take allowance
+## 2. Place Leader
+
+Remove all mini-figures from the board. Starting with the First Player and going clockwise, players place mini-figures on Leader spaces. Mini-figures may not share a space, or 'bump' a previously-placed mini-figure.
+
+(Skip on the first round, except in the first game).
+
+## 3. Take allowance
 
 > **Skip this on the first round.**
 
 All players take an amount of Wealth from the Bank specified by the rightmost Port space with a ship on it.
-
-## 3. Place Leader
-
-Remove all mini-figures from the board. Starting with the First Player and going clockwise, players place mini-figures on Leader spaces. Mini-figures may not share a space, or 'bump' a previously-placed mini-figure.
 
 ## 4. Take 2 actions
 
