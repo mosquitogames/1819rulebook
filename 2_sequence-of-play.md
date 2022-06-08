@@ -5,6 +5,18 @@ permalink: /sequence-of-play
 nav_order: 2
 ---
 
+## Game Flow
+1819 Singapore is played over a series of eight rounds or fewer. The game ends when:
+
+1. there are no more Event cards to draw (i.e., eight rounds have passed);
+2. the last (rightmost) Port space is filled with ships, and Singapore prospers;
+3. the first (leftmost) Port space is emptied of ships, and Singapore collapses.
+
+When an endgame condition is reached, play continues until that round is over (i.e., until Upkeep is resolved). If the condition still holds, the game ends.
+
+Each round has five phases:
+
+
 The player who rolls the highest on a D4 is the First Player this round.
 
 After every round (i.e., after every player has taken their turn), the next player clockwise becomes the First Player.
@@ -17,6 +29,8 @@ Every round of gameplay progresses in five phases.
 > **Skip this on the first round.**
 
 Events marked Immediate must be resolved before proceeding to next phase.
+
+Event cards represent crises, global events, or shifting mores in local society that affect the political status quo. At the start of each round (except the first), a new Event card is revealed.
 
 ## 2. Place Leader
 

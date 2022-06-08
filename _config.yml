@@ -6,7 +6,10 @@ title: "1819 Rulebook"
 email: "info@mosquito.games"
 description: "Rulebook for 1819 Singapore"
 
-# theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
+
 search_enabled: false
 heading_anchors: true
+
+plugins:
+  - jekyll-remote-theme

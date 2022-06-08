@@ -4,17 +4,16 @@ title: Setup
 permalink: /setup
 nav_order: 1
 ---
-# Setup
 
-<!-- 
+<!-- Update board, label parts -->
+
 ![Annotated Board](https://github.com/mosquitogames/1819rulebook/blob/main/img/annotated_board.jpg?raw=true)
- -->
 
 ## Player Setup
 
 ### A. Board and mini-figure
 
-Hand each player a board. For your first game, use the illustrated side of the board and place the corresponding mini-figures on their starting Leader spaces:
+Hand each player a board. Have players on the same faction sit beside each other. For your first game, use the illustrated side of the board and place the corresponding mini-figures on their starting Leader spaces:
 
 | Mini-figure | Starting Leader space |
 | :---: | :---: |
@@ -63,9 +62,12 @@ Place two Ships on the leftmost space of the Port track, and the rest near the b
 
 ### G. Event cards
 
-Separate the Event cards by their backs: Event I, Event II, and the Treaties. Place the Singapore Treaty face up on the Treaty space.
+Separate the Event cards by their backs: Event I, Event II, and the Treaties.
 
-Shuffle the Event II cards, then deal three face down onto the Event deck space. Place the Treaty of London face down on top of the Event II cards. Then shuffle the Event I cards and deal three face down on top of the Treaty.
+- Shuffle the Event II cards, then deal three face down onto the Event deck space.
+- Place the Treaty of London face down on top of the Event II cards.
+- Then shuffle the Event I cards and deal three face down on top of the Treaty.
+- Finally, place the Singapore Treaty face down on the pile.
 
 Put the rest of the Event cards away.
 
