@@ -6,64 +6,68 @@ nav_order: 2
 ---
 
 ## Game Flow
-1819 Singapore is played over a series of eight rounds or fewer. The game ends when:
 
-1. there are no more Event cards to draw (i.e., eight rounds have passed);
-2. the last (rightmost) Port space is filled with ships, and Singapore prospers;
-3. the first (leftmost) Port space is emptied of ships, and Singapore collapses.
+1819 Singapore is played over a series of eight rounds or fewer. Each round has four phases:
+1. [Event phase](#1-event-phase)
+2. [Leader phase](#2-leader-phase)
+3. [Action phase](#3-action-phase)
+4. [Upkeep phase](#4-upkeep-phase)
 
-When an endgame condition is reached, play continues until that round is over (i.e., until Upkeep is resolved). If the condition still holds, the game ends.
-
-Each round has five phases:
-
-
-The player who rolls the highest on a D4 is the First Player this round.
-
-After every round (i.e., after every player has taken their turn), the next player clockwise becomes the First Player.
+In the **Event** phase, players draw and collectively resolve an Event card. In the **Leader** phase, players decide on their priorities for the round. In the **Action** phase, players take two actions each, going clockwise from the First Player. Finally, in the **Upkeep** phase, players collectively meet the cost of maintaining Singapore.
+<!-- ---crises, global events, or shifting social mores that affect the rulers' status quo. -->
 
 
-Every round of gameplay progresses in five phases.
+<!-- Add first player token to setup -->
+## Endgame Conditions
 
-## 1. Reveal and resolve an Event card
+The game ends when, at the **end** of a round,
 
-> **Skip this on the first round.**
+- there are no Event cards left; or
+- all ships are on the board, i.e., Singapore prospers; or
+- no ships are left on the board, i.e., Singapore collapses.
 
-Events marked Immediate must be resolved before proceeding to next phase.
+## 1. Event phase
 
-Event cards represent crises, global events, or shifting mores in local society that affect the political status quo. At the start of each round (except the first), a new Event card is revealed.
+Reveal the top card of the Event deck and place it on the Event space.
+- In the first round, reveal the Singapore Treaty and place it on the Treaty space.
+- Events marked **Immediate** must be resolved before proceeding.
 
-## 2. Place Leader
+## 2. Leader phase
 
-Remove all mini-figures from the board. Starting with the First Player and going clockwise, players place mini-figures on Leader spaces. Mini-figures may not share a space, or 'bump' a previously-placed mini-figure.
+### Assign First Player
+- In the first round, hand the player who rolls the highest D4 the First Player token.
+- In succeeding rounds, pass the token to the next (clockwise) player.
 
-(Skip on the first round, except in the first game).
+### Distribute Income
+- In the first round, hand each player $5.
+- In succeeding rounds, hand each player the amount specified by the highest Port space with a ship on it.
 
-## 3. Take allowance
+### Set Priorities
+***(Skip this step on your first game.)*** Place your mini-figure on an open Leader space, starting with the First Player.
 
-> **Skip this on the first round.**
+## 3. Action phase
+On your turn, take two Actions:
 
-All players take an amount of Wealth from the Bank specified by the rightmost Port space with a ship on it.
-
-## 4. Take 2 actions
-
-Starting with the First Player and going clockwise, players each take up to 2 actions:
-
-- **Buy** a Market or Battle card
+- **Buy** a Resource or Battle card
 - **Populate** Singapore with an Immigrant card
+- **Use** a card from your tableau
 - Go on a **Raid**
-- Declare **War**, which **counts as 2 actions**
+- Issue a **Decree**
+- Declare **War**
 
-Generally, players may take the same action twice. Actions are explained in detail in the next section.
+Play proceeds from the First Player. You may take the same Action twice. Actions are explained in detail in the next section.
 
-*3-player game: the solo player takes 3 actions per turn.*
+<!-- *3-player game: the solo player takes 3 actions per turn.* -->
 
-## 5. Pay for Upkeep
-Players must collectively meet the maintenance cost of Public Works. If there are at least as many tokens on the Tax track as the Public Works track, **Upkeep is met**. Players receive 1 Victory Point for each token they have on the Tax track **(TO TEST: x MULTIPLIER?)**.
+## 4. Upkeep phase
+Check the Tax and Public Works tracks.
 
-If there are more tokens on the Public Works track than the Tax track, **Upkeep is not met**. Remove one ship from the Port track. If there are no more ships left on the board, the game ends!
+If there are at least as many Tax tokens as Public Works tokens, Upkeep is met!
+- All players receive 1 VP per Tax token.
+- If one player contributed more Tax tokens than anyone else, that player receives 2 VPs per token.
 
-The players who own the "unfunded" Public Works (i.e., the rightmost Public Works without corresponding Tax tokens) must pay the Upkeep Multiplier for each of their tokens.
-
-If players cannot afford the "unfunded" Public Works, they must turn over one of the Public Work cards in their tableau, deactivating it. To reactivate the Public Work, they may take a free action to pay the card's market cost to the Bank.
-
-The next clockwise player becomes the First Player for the next round.
+If there are strictly fewer Tax tokens than Public Works tokens, Upkeep is failed.
+- Remove one ship from the Port track. Remember, if the board is cleared of ships, the game ends!
+- All players who own unfunded Public Works (i.e., Public Works tokens in excess of the Tax tokens) must pay **$ Upkeep Multiplier** per token.
+- If you cannot afford to fund your Public Work, you must flip over the card in your tableau and discard any attached Immigrants. You cannot Use deactivated, face-down cards in your tableau.
+- On your turn, you may reactivate a card by paying its market cost to the Bank. This is a free Action.

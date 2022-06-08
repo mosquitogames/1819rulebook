@@ -4,9 +4,7 @@ title: Setup
 permalink: /setup
 nav_order: 1
 ---
-
 <!-- Update board, label parts -->
-
 ![Annotated Board](https://github.com/mosquitogames/1819rulebook/blob/main/img/annotated_board.jpg?raw=true)
 
 ## Player Setup
@@ -22,7 +20,7 @@ Hand each player a board. Have players on the same faction sit beside each other
 | Temenggong | Battle |
 | Sultan | Population |
 
-Leader spaces reflect rulers' priorities for the round.
+Leader spaces reflect players' priorities for the round.
 
 <!-- There must always be two Malay Chiefs. 
 Which players sit beside?
@@ -34,13 +32,15 @@ For your first game, use the Legacies printed on the player boards. Put the Lega
 
 Otherwise, shuffle each faction's Legacy tiles. Have each player draw three tiles from their faction deck, keep two, and discard the other. Put the rest of the Legacy tiles away.
 
+<!-- 
 ### C. Wealth
 
 Hand each player $5. Set the remaining coins near the board---this is the Bank.
+ -->
 
 <!-- > *3-player game: the solo player gets $8 to start.* -->
 
-### D. Player tokens
+### C. Player tokens
 
 Hand each player a set of colored tokens. Have each player place one token in their faction's Storehouse, and another on the zero space of the Victory Point track.
 
@@ -48,19 +48,19 @@ On the board, player tokens represent Influence. Filling Villages with Influence
 
 ## Board Setup
 
-### E. Villages
+### D. Villages
 
 Cover the x2 and x3 Villages with the four black markers. These Villages are empty; they must be Populated before players can place Influence tokens on them.
 
 <!-- > *3-player game: the solo player only covers their x3 Village.* -->
 
-### F. Port track
+### E. Port track
 
 Place two Ships on the leftmost space of the Port track, and the rest near the board. Every time a Village is filled with Influence, another Ship arrives in Singapore, occupying another space on the Port track.
 
 ## Card Setup
 
-### G. Event cards
+### F. Event cards
 
 Separate the Event cards by their backs: Event I, Event II, and the Treaties.
 
@@ -71,11 +71,11 @@ Separate the Event cards by their backs: Event I, Event II, and the Treaties.
 
 Put the rest of the Event cards away.
 
-### H. Resource cards
+### G. Resource cards
 
 Shuffle the Resource deck and place it face down on the appropriate space. Deal the first five cards face up onto the Market.
 
-### I. Immigrant cards
+### H. Immigrant cards
 
 Shuffle the Immigrant deck and place it face down on the appropriate space. Immigrant cards yield Population cubes, which unlock higher-scoring Villages. 
 
@@ -84,7 +84,7 @@ join Communities?
 represent the various social groups who migrated---voluntarily or otherwise---into Singapore.
  -->
 
-### J. Battle cards
+### I. Battle cards
 
 Shuffle each faction's Battle deck and place them face down on the appropriate spaces. Have each player draw one card from their faction deck.
 
@@ -94,7 +94,7 @@ Battle cards represet the various fighting forces at each faction's disposal. Br
 > *3-player game: the solo player draws 3 Battle cards and keeps 2.*
  -->
 
-### K. Reference cards
+### J. Reference cards
 
 Hand each player a reference card. The cards explain the two Storehouse actions: Decree and War.
 
