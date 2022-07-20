@@ -32,7 +32,7 @@ When you buy a Resource card from the Market:
 | ![Tax](https://github.com/mosquitogames/1819rulebook/blob/main/img/tax.png?raw=true) | **Tax** card: Add Player token to Tax track. See [Upkeep](/sequence-of-play#4-upkeep-phase). |
 | ![Personality](https://github.com/mosquitogames/1819rulebook/blob/main/img/personality.png?raw=true) | **Personality** card: Nothing to resolve. |
 | ![Commerce](https://github.com/mosquitogames/1819rulebook/blob/main/img/commerce.png?raw=true) | **Commerce** card: Nothing to resolve. |
-| ![Vice and Slavery](https://github.com/mosquitogames/1819rulebook/blob/main/img/vice_slavery_.png?raw=true) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Nothing to resolve. |
+| ![Vice and Slavery](https://github.com/mosquitogames/1819rulebook/blob/main/img/vice_slavery.png?raw=true) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Nothing to resolve. |
 
 - C. **Connectors.** Cards with connectors can form Communities that can be Activated all at once.
 - D. **Population capacity.** Cards with Population symbols can accommodate Population cards. 
