@@ -12,42 +12,6 @@ nav_order: 3
 1. TOC
 {:toc}
 
-## Buy
-
-### Resource cards
-
-
-
-### Battle cards
-Pay $2 to draw the top card from your faction's Battle deck. The card's Strength is indicated in the top right corner.
-
-Some **Malay** Battle cards are 
-
-Battle cards cost $2.
-
-Players draw a card from their faction's Battle deck. Players pay the Bank $2 to draw a card from their faction's Battle deck. The card's Strength is indicated in the upper right corner.
-
-- Any **instant effect/s** or **card type/s** are in the upper right corner. They are resolved **top to bottom**.
-- Any **passive effects** are explained in **bold**.
-- Any **card actions** are in the bottom right corner.
-
-| Symbol | Instant effect / card type |
-| :---: | :---: |
-| ![Add Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Add specified number of Influence tokens to congkak board |
-| ![Add Immigrants](https://github.com/mosquitogames/1819rulebook/blob/main/img/immigrants.png?raw=true) | Add specified number of Immigrant cubes to Population space |
-| ![Swap Objective](https://github.com/mosquitogames/1819rulebook/blob/main/img/private_objectives.png?raw=true) | Swap out one Private Objective (draw 2, keep 1) at no cost |
-| ![Public Work](https://github.com/mosquitogames/1819rulebook/blob/main/img/public_works.png?raw=true) | Public Works card --- Add your token to the Public Works track |
-| ![Tax](https://github.com/mosquitogames/1819rulebook/blob/main/img/tax.png?raw=true) | Tax card -- Add your token to the Tax track |
-| ![Vice](https://github.com/mosquitogames/1819rulebook/blob/main/img/vice.png?raw=true) | Vice card -- Add Vice token to Storehouse |
-
-## Populate
-Players draw the top card of the Immigrant deck.
-
-Any instant effects (in the upper right) are resolved immediately, from top to bottom.
-
-Players must anchor Immigrant cards to Immigrant attachments on certain Market cards. When cards Immigrants are attached to are discarded or flipped over, Immigrants may be reassigned to other free slots where available. Where none are available, Immigrants turn to crime. Discard the unmoored cards and lose 1 Victory Point per card.
-
-Players may receive endgame Victory Point bonuses from collecting sets.
 
 ## Use
 Use Market cards or linked groups of Market cards. Take all actions listed at the bottom of the card/s. Each card or linked group of cards may only be used once per round.

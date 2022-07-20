@@ -59,9 +59,9 @@ Separate the Event cards by their backs: Event I, Event II, and the Treaties.
 
 Put the rest of the Event cards away.
 
-### G. Resource cards
+### G. Emporium cards
 
-Shuffle the Resource deck and place it face down on the appropriate space. Deal the first five cards face up onto the Market from right to left.
+Shuffle the Emporium deck and place it face down on the appropriate space. Deal the first five cards face up onto the Market from right to left.
 
 ### H. Population cards
 
@@ -69,7 +69,6 @@ Shuffle the Population deck and place it face down on the appropriate space. Pop
 
 <!-- 
 switch back to IMMIGRANT card
-join Communities?
 represent the various social groups who migrated---voluntarily or otherwise---into Singapore.
  -->
 
@@ -86,9 +85,5 @@ Battle cards represet the various fighting forces at each faction's disposal. Br
 ### J. Reference cards
 
 Hand each player a reference card. The cards explain the two Storehouse actions: Decree and War.
-
-<!-- 
-The Public Works dial tracks the number of schools, utilities, and public services built in Singapore. Increase the Public Works counter by 1 every time a Public Works card is bought from the Market.
- -->
 
 ## Setup is complete!

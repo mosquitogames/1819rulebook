@@ -37,4 +37,4 @@ The player with the most **Victory Points** (VPs) at the end of the game wins. P
 - Fulfilling **Personal Objectives**.
 
 ## Characters
-There are two British Agents, the **Governor** and the **Resident**; and two Malay Chiefs, the **Temenggong** and the **Sultan**. Victory is not shared by factions---only one player can win the game.
+There are two British Agents, the **Lieutenant-Governor** and the **Resident**; and two Malay Chiefs, the **Temenggong** and the **Sultan**. Victory is not shared by factions---only one player can win the game.

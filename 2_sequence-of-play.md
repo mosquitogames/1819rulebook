@@ -16,15 +16,13 @@ nav_order: 2
 In the **Event** phase, players draw and collectively resolve an Event card. In the **Leader** phase, players decide on their priorities for the round. In the **Action** phase, players take two actions each, going clockwise from the First Player. Finally, in the **Upkeep** phase, players collectively meet the cost of maintaining Singapore.
 <!-- ---crises, global events, or shifting social mores that affect the rulers' status quo. -->
 
-
-<!-- Add first player token to setup -->
 ## Endgame Conditions
 
 The game ends when, at the **end** of a round,
 
 - there are no Event cards left; or
-- all ships are on the board, i.e., Singapore prospers; or
-- no ships are left on the board, i.e., Singapore collapses.
+- all ships are on the Port track, i.e., Singapore prospers; or
+- no ships are left, i.e., Singapore collapses.
 
 ## 1. Event phase
 
@@ -42,15 +40,15 @@ Reveal the top card of the Event deck and place it on the Event space.
 - In the first round, hand each player $5.
 - In succeeding rounds, hand each player the amount specified by the highest Port space with a ship on it.
 
-### c. Set Priorities
+### c. Place Leaders
 Place your mini-figure on an open Leader space, starting with the First Player. The Leader space gives you a Free Action you may use this round. *(On your first game, your starting Priorities are decided for you.)*
 
 ## 3. Action phase
 Play proceeds from the First Player. On your turn, take two core Actions, and any free Actions, in any order. The 6 Core Actions are:
 
-- **Buy** a Resource or Battle card
+- **Buy** an Emporium or Battle card
 - **Populate** Singapore with a Population card
-- **Activate** a community on your tableau
+- **Activate** a card or community
 - Go on a **Raid**
 - Issue a **Decree**
 - Declare **War** *(counts as two Actions)*
@@ -78,4 +76,4 @@ If you cannot afford to fund your Public Work, you must:
 Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Face-down cards](/concepts#face-down-cards).
 
 ### b. Flush the Market
-Discard the rightmost Market card. Shift the other Market cards one space to the right. Draw the top card of the Resource deck to fill the leftmost Market space.
+Discard the rightmost Market card. Shift the other Market cards one space to the right. Draw the top card of the Emporium deck to fill the leftmost Market space.
