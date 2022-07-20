@@ -5,13 +5,13 @@ permalink: /setup
 nav_order: 1
 ---
 <!-- Update board, label parts -->
-![Annotated Board](https://github.com/mosquitogames/1819rulebook/blob/main/img/annotated_board.jpg?raw=true)
+<!-- ![board](https://github.com/mosquitogames/1819rulebook/blob/main/img/board.jpg?raw=true) -->
 
 ## Player Setup
 
-### A. Board and mini-figure
+### A. Boards, Leader cards and mini-figures
 
-Hand each player a board. Have players on the same faction sit beside each other. For your first game, use the illustrated side of the board and place the corresponding mini-figures on their starting Leader spaces:
+Hand each player a board and corresponding Leader card. Have players on the same faction sit beside each other. For your first game, use the illustrated side of the board and place the corresponding mini-figures on their starting Leader spaces:
 
 | Mini-figure | Starting Leader space |
 | :---: | :---: |
@@ -22,29 +22,17 @@ Hand each player a board. Have players on the same faction sit beside each other
 
 Leader spaces reflect players' priorities for the round.
 
-<!-- There must always be two Malay Chiefs. 
-Which players sit beside?
--->
+### B. Legacy and Attribute tiles
 
-### B. Legacy tiles
+For your first game, use the Legacies and Attributes printed on the player boards. Put the Legacy and Attribute tiles away.
 
-For your first game, use the Legacies printed on the player boards. Put the Legacy tiles away.
-
-Otherwise, shuffle each faction's Legacy tiles. Have each player draw three tiles from their faction deck, keep two, and discard the other. Put the rest of the Legacy tiles away.
-
-<!-- 
-### C. Wealth
-
-Hand each player $5. Set the remaining coins near the board---this is the Bank.
- -->
-
-<!-- > *3-player game: the solo player gets $8 to start.* -->
+Otherwise, have each player draw three Legacy tiles at random, keep two, and discard the other. Also have each player draw an Attribute tile at random. Put the rest of the tiles away.
 
 ### C. Player tokens
 
 Hand each player a set of colored tokens. Have each player place one token in their faction's Storehouse, and another on the zero space of the Victory Point track.
 
-On the board, player tokens represent Influence. Filling Villages with Influence earns you VPs. Spending Influence from your faction Storehouse lets you issue Decrees or declare War. Off the board, player tokens are also used as trackers for VPs, personal objectives, or anything else.
+On the board, player tokens represent Influence. Filling Villages with Influence earns you VPs. Spending Influence from your faction Storehouse lets you issue Decrees or declare War. Off the board, player tokens are also used as trackers for Legacies and the like.
 
 ## Board Setup
 
@@ -56,7 +44,7 @@ Cover the x2 and x3 Villages with the four black markers. These Villages are emp
 
 ### E. Port track
 
-Place two Ships on the leftmost space of the Port track, and the rest near the board. Every time a Village is filled with Influence, another Ship arrives in Singapore, occupying another space on the Port track.
+Place two Ships on the leftmost space of the Port track, and the rest on the appropriate space. Every time a Village is filled with Influence, another Ship arrives in Singapore, occupying another space on the Port track.
 
 ## Card Setup
 
@@ -73,13 +61,14 @@ Put the rest of the Event cards away.
 
 ### G. Resource cards
 
-Shuffle the Resource deck and place it face down on the appropriate space. Deal the first five cards face up onto the Market.
+Shuffle the Resource deck and place it face down on the appropriate space. Deal the first five cards face up onto the Market from right to left.
 
-### H. Immigrant cards
+### H. Population cards
 
-Shuffle the Immigrant deck and place it face down on the appropriate space. Immigrant cards yield Population cubes, which unlock higher-scoring Villages. 
+Shuffle the Population deck and place it face down on the appropriate space. Population cards yield Population cubes, which unlock higher-scoring Villages.
 
 <!-- 
+switch back to IMMIGRANT card
 join Communities?
 represent the various social groups who migrated---voluntarily or otherwise---into Singapore.
  -->

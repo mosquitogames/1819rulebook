@@ -30,44 +30,52 @@ The game ends when, at the **end** of a round,
 
 Reveal the top card of the Event deck and place it on the Event space.
 - In the first round, reveal the Singapore Treaty and place it on the Treaty space.
-- Events marked **Immediate** must be resolved before proceeding.
+- **Immediate (⚡)️ Events** must be resolved before proceeding.
 
 ## 2. Leader phase
 
-### Assign First Player
-- In the first round, hand the player who rolls the highest D4 the First Player token.
+### a. Assign First Player
+- In the first round, hand the player who rolls the highest the First Player token.
 - In succeeding rounds, pass the token to the next (clockwise) player.
 
-### Distribute Income
+### b. Distribute Income
 - In the first round, hand each player $5.
 - In succeeding rounds, hand each player the amount specified by the highest Port space with a ship on it.
 
-### Set Priorities
-***(Skip this step on your first game.)*** Place your mini-figure on an open Leader space, starting with the First Player.
+### c. Set Priorities
+Place your mini-figure on an open Leader space, starting with the First Player. The Leader space gives you a Free Action you may use this round. *(On your first game, your starting Priorities are decided for you.)*
 
 ## 3. Action phase
-On your turn, take two Actions:
+Play proceeds from the First Player. On your turn, take two core Actions, and any free Actions, in any order. The 6 Core Actions are:
 
 - **Buy** a Resource or Battle card
-- **Populate** Singapore with an Immigrant card
-- **Use** a card from your tableau
+- **Populate** Singapore with a Population card
+- **Activate** a community on your tableau
 - Go on a **Raid**
 - Issue a **Decree**
-- Declare **War**
+- Declare **War** *(counts as two Actions)*
 
-Play proceeds from the First Player. You may take the same Action twice. Actions are explained in detail in the next section.
+Free Actions may only be taken once. Core Actions may be taken twice. You need not take all your Actions.
+
+Actions are explained in detail in [the next section](/actions).
 
 <!-- *3-player game: the solo player takes 3 actions per turn.* -->
 
 ## 4. Upkeep phase
-Check the Tax and Public Works tracks.
 
-If there are at least as many Tax tokens as Public Works tokens, Upkeep is met!
-- All players receive 1 VP per Tax token.
-- If one player contributed more Tax tokens than anyone else, that player receives 2 VPs per token.
+### a. Pay for Public Works
+All players receive 1 VP per Tax token on the board.
 
-If there are strictly fewer Tax tokens than Public Works tokens, Upkeep is failed.
-- Remove one ship from the Port track. Remember, if the board is cleared of ships, the game ends!
-- All players who own unfunded Public Works (i.e., Public Works tokens in excess of the Tax tokens) must pay **$ Upkeep Multiplier** per token.
-- If you cannot afford to fund your Public Work, you must flip over the card in your tableau and discard any attached Immigrants. You cannot Use deactivated, face-down cards in your tableau.
-- On your turn, you may reactivate a card by paying its market cost to the Bank. This is a free Action.
+If Public Works \\(\leq\\) Tax, Upkeep is met! The players with the most Tax tokens on the track receive 2 VPs per token.
+
+If Public Works \\(\>\\) Tax, Upkeep is failed. All players who own unfunded Public Works (i.e., Public Works tokens in excess of the Tax tokens) must pay **$ Upkeep Multiplier** per Work.
+
+If you cannot afford to fund your Public Work, you must:
+1. flip over a Public Works card in your tableau,
+2. discard any attached Population cards, and
+3. remove the corresponding number of Population cubes from the board.
+
+Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Face-down cards](/concepts#face-down-cards).
+
+### b. Flush the Market
+Discard the rightmost Market card. Shift the other Market cards one space to the right. Draw the top card of the Resource deck to fill the leftmost Market space.

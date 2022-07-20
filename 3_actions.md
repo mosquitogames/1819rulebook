@@ -2,20 +2,30 @@
 layout: page
 title: Actions
 permalink: /actions
+has_children: true
 nav_order: 3
 ---
 
 # Actions
-Players usually take 2 actions per turn.
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Buy
-Players use their own Wealth to purchase Market cards or Battle cards.
 
-The price of a Market card is in the upper left corner; some cards have distinct prices for the British Agents (blue) and for the Malay Chiefs (green). When a card is taken from the Market, a new card is **immediately drawn** to replace it.
+### Resource cards
 
-Battle cards cost $2. Players draw a card from their faction's Battle deck. Players pay the Bank $2 to draw a card from their faction's Battle deck. The card's Strength is indicated in the upper right corner.
 
-Players may discard Market or Battle cards at no cost, anytime during their turn. When a Market card that is discarded had Immigrants attached, the player may reallocate these Immigrants to other available spaces, otherwise discard them at a loss of 1 Victory Point each.
+
+### Battle cards
+Pay $2 to draw the top card from your faction's Battle deck. The card's Strength is indicated in the top right corner.
+
+Some **Malay** Battle cards are 
+
+Battle cards cost $2.
+
+Players draw a card from their faction's Battle deck. Players pay the Bank $2 to draw a card from their faction's Battle deck. The card's Strength is indicated in the upper right corner.
 
 - Any **instant effect/s** or **card type/s** are in the upper right corner. They are resolved **top to bottom**.
 - Any **passive effects** are explained in **bold**.
@@ -28,12 +38,12 @@ Players may discard Market or Battle cards at no cost, anytime during their turn
 | ![Swap Objective](https://github.com/mosquitogames/1819rulebook/blob/main/img/private_objectives.png?raw=true) | Swap out one Private Objective (draw 2, keep 1) at no cost |
 | ![Public Work](https://github.com/mosquitogames/1819rulebook/blob/main/img/public_works.png?raw=true) | Public Works card --- Add your token to the Public Works track |
 | ![Tax](https://github.com/mosquitogames/1819rulebook/blob/main/img/tax.png?raw=true) | Tax card -- Add your token to the Tax track |
-| ![Vice](https://github.com/mosquitogames/1819rulebook/blob/main/img/vice.png?raw=true) | Vice card -- Add Vice token to Stronghold |
+| ![Vice](https://github.com/mosquitogames/1819rulebook/blob/main/img/vice.png?raw=true) | Vice card -- Add Vice token to Storehouse |
 
 ## Populate
-Players draw an Immigrant card from the deck.
+Players draw the top card of the Immigrant deck.
 
-Any instant effects (in the upper right) are resolved immediately from top to bottom.
+Any instant effects (in the upper right) are resolved immediately, from top to bottom.
 
 Players must anchor Immigrant cards to Immigrant attachments on certain Market cards. When cards Immigrants are attached to are discarded or flipped over, Immigrants may be reassigned to other free slots where available. Where none are available, Immigrants turn to crime. Discard the unmoored cards and lose 1 Victory Point per card.
 
@@ -68,43 +78,29 @@ where "face value" means the price relevant to the discarding player's faction, 
  -->
 
 ## Raid
-Players may go **Raiding**, which boosts players' Wealth if successful, but damages the opponent's reputation.
 
-When Malay Chiefs go Raiding, British Agents prefer to call it *piracy*.
+<!-- *Raiding gives your wealth a quick boost, but scares traders away.* -->
 
-When British Agents go Raiding, Malay Chiefs prefer to call it *plunder*.
+Roll one die and gain that many dollars ("$1D"). If the result is more than 0, remove one ship from the Port track.
 
-To go Raiding, players roll two D4s, then take from the Bank that dollar amount.
-
-Raiding scares off traders. Remove one ship from the Port.
-
-### Intervene
-When a player goes **Raiding**, any other player may choose to **Intervene**. Interventions do not count as actions. Only one player may Intervene; if multiple players wish to Intervene, the next clockwise player from the active player has priority.
-
-Interventions must be declared before the Raider rolls the dice.
-
-To Intervene, commit a single Battle card. **Identical Battle cards may be played together as if they were one card.**
-
-If the Interventionist **matches or exceeds** the Raider's roll, the Intervention is successful. They place two of their Influence tokens onto the board. Interventionists win ties.
-
-Whether or not an Intervention was successful, the altercation scared off traders. Remove one ship from the Port.
+## Decree
+Some info here.
 
 ## Declare War
-Whereas players go on Raids primarily to gain Wealth, players declare War to corner their opponents and drain their resources. Players may only declare War on players in the **enemy faction**. They must choose which player to target.
 
-**War costs 2 turns.**
+<!-- *Declare War to corner your opponents and drain their resources.* -->
+
+Players may only declare War on players in the **enemy faction**. They must choose which player to target.
 
 The attacker and their target (i.e., the defender) each commit one Battle card (if available). Their faction mates may opt to assist them by committing one additional Battle card. 
 
-**Identical Battle cards may be played together as if they were one card.**
+The attacker and defender may each withdraw as many tokens from their respective faction Storehouses as they wish. Each token counts as 1 Strength.
 
-The attacker and defender may each withdraw as many tokens from their respective faction Strongholds as they wish. Each token counts as 1 Strength.
+The attacker and defender each roll two dice.
 
-The attacker and defender each roll a D4.
+<!-- > **3-player game: the solo player may commit 2 battle cards.** -->
 
-> **3-player game: the solo player may commit 2 battle cards.**
-
-Whoever has the higher total Strength (Battle card/s + Stronghold tokens + D4) wins the War, with the attacker winning ties. Revealed Battle cards are discarded.
+Whoever has the higher total Strength (Battle card/s + Storehouse tokens + D4) wins the War, with the attacker winning ties. Revealed Battle cards are discarded.
 
 The winner of War plunders the loser for $ (Total strength point difference) x (Active multiplier). If the loser has Wealth, the winner must take that Wealth. The loser's ally may choose to donate Wealth, which the winner must also take.
 
