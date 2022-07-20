@@ -3,7 +3,7 @@ layout: page
 title: Populate
 permalink: /populate
 parent: Actions
-nav_order: 3
+nav_order: 2
 ---
 ## Populate
 
@@ -23,5 +23,5 @@ Draw the top card of the Population deck, then:
 
 | Symbol | Instant effect |
 | :---: | :---: |
-| ![Populate](https://github.com/mosquitogames/1819rulebook/blob/main/img/immigrants.png?raw=true) | Add *n* **Population** cubes to board. See [Populating Villages](/concepts#populating-villages). |
-| ![Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Add *n* **Influence** tokens to board. See [Adding Influence](/concepts#placing-influence). |
+| ![Populate](https://github.com/mosquitogames/1819rulebook/blob/main/img/immigrants.png?raw=true) | Add *n* **Population** cubes to Districts. See [Populating Districts](/concepts#populating-districts). |
+| ![Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Add *n* **Influence** tokens to Districts. See [Adding Influence](/concepts#placing-influence). |

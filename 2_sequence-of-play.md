@@ -70,10 +70,11 @@ If Public Works \\(\>\\) Tax, Upkeep is failed. All players who own unfunded Pub
 
 If you cannot afford to fund your Public Work, you must:
 1. flip over a Public Works card in your tableau,
-2. discard any attached Population cards, and
-3. remove the corresponding number of Population cubes from the board.
+2. remove associated Public Work tokens from the board,
+3. discard any attached Population cards, and
+4. remove the corresponding number of Population cubes from the board.
 
-Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Face-down cards](/concepts#face-down-cards).
+Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Flipping cards](/concepts#flipping-cards).
 
-### b. Flush the Market
-Discard the rightmost Market card. Shift the other Market cards one space to the right. Draw the top card of the Emporium deck to fill the leftmost Market space.
+### b. Flush the Emporium
+Discard the rightmost Emporium card. Shift the other cards one space to the right, then draw the top card of the Emporium deck to fill the leftmost space.

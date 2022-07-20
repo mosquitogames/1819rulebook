@@ -15,8 +15,8 @@ Hand each player a board and corresponding Leader card. Have players on the same
 
 | Mini-figure | Starting Leader space |
 | :---: | :---: |
-| Governor | Market |
-| Resident | Market |
+| Governor | Emporium |
+| Resident | Emporium |
 | Temenggong | Battle |
 | Sultan | Population |
 
@@ -32,19 +32,19 @@ Otherwise, have each player draw three Legacy tiles at random, keep two, and dis
 
 Hand each player a set of colored tokens. Have each player place one token in their faction's Storehouse, and another on the zero space of the Victory Point track.
 
-On the board, player tokens represent Influence. Filling Villages with Influence earns you VPs. Spending Influence from your faction Storehouse lets you issue Decrees or declare War. Off the board, player tokens are also used as trackers for Legacies and the like.
+On the board, player tokens represent Influence. Filling Districts with Influence earns you VPs. Spending Influence from your faction Storehouse lets you issue Decrees or declare War. Off the board, player tokens are also used as trackers for Legacies and the like.
 
 ## Board Setup
 
-### D. Villages
+### D. Districts
 
-Cover the x2 and x3 Villages with the four black markers. These Villages are empty; they must be Populated before players can place Influence tokens on them.
+Cover the x2 and x3 Districts with the four black markers. These Districts are empty; they must be Populated before players can place Influence tokens on them.
 
-<!-- > *3-player game: the solo player only covers their x3 Village.* -->
+<!-- > *3-player game: the solo player only covers their x3 District.* -->
 
 ### E. Port track
 
-Place two Ships on the leftmost space of the Port track, and the rest on the appropriate space. Every time a Village is filled with Influence, another Ship arrives in Singapore, occupying another space on the Port track.
+Place two Ships on the leftmost space of the Port track, and the rest on the appropriate space. Every time a District is filled with Influence, another Ship arrives in Singapore, occupying another space on the Port track.
 
 ## Card Setup
 
@@ -61,11 +61,11 @@ Put the rest of the Event cards away.
 
 ### G. Emporium cards
 
-Shuffle the Emporium deck and place it face down on the appropriate space. Deal the first five cards face up onto the Market from right to left.
+Shuffle the Emporium deck and place it face down on the appropriate space. Deal the first five cards face up onto the Emporium from right to left.
 
 ### H. Population cards
 
-Shuffle the Population deck and place it face down on the appropriate space. Population cards yield Population cubes, which unlock higher-scoring Villages.
+Shuffle the Population deck and place it face down on the appropriate space. Population cards yield Population cubes, which unlock higher-scoring Districts.
 
 <!-- 
 switch back to IMMIGRANT card

@@ -3,7 +3,7 @@ layout: page
 title: Raid
 permalink: /raid
 parent: Actions
-nav_order: 5
+nav_order: 4
 ---
 ## Raid
 <!-- *Raiding gives your wealth a quick boost, but scares traders away.* -->

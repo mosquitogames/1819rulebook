@@ -31,7 +31,7 @@ However, halfway through the game, the Treaty of London makes peace between the 
 
 The player with the most **Victory Points** (VPs) at the end of the game wins. Players earn Victory Points by:
 
-- Influencing **Villages**;
+- Influencing **Districts**;
 - Winning **Wars**;
 - Collecting **Taxes**; and
 - Fulfilling **Personal Objectives**.

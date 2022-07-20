@@ -1,19 +1,23 @@
 ---
 layout: page
-title: Buy Emporium Card
-permalink: /buy-emporium
+title: Buy
+permalink: /buy
 parent: Actions
 nav_order: 1
 ---
+1. TOC
+{:toc}
+
 ## Buy Emporium Card
 
-Buy an available card from the Market, then:
+Buy an available card from the Emporium, then:
 
 1. Resolve any instant effects;
 2. Add the card to your tableau, making at most one connection; then
-3. Shift all Market cards to the right, and draw the top card of the Emporium deck to fill the leftmost Market space.
+3. Shift all face-up cards to the right, and draw the top card of the Emporium deck to fill the leftmost space.
 
 ## Anatomy of an Emporium card
+{: .no_toc }
 
 ![Emporium cards](https://www.dropbox.com/s/5pobb5maoxnpip4/emporium_card_anatomy.png?dl=1)
 
@@ -24,7 +28,7 @@ Buy an available card from the Market, then:
 
 | Symbol | Instant effect |
 | :---: | :---: |
-| ![Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Add *n* **Influence** tokens to board. See [Adding Influence](/concepts#placing-influence). |
+| ![Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Add *n* **Influence** tokens to Districts. See [Adding Influence](/concepts#placing-influence). |
 | ![Move](https://github.com/mosquitogames/1819rulebook/blob/main/img/move.png?raw=true) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](/concepts#moving-cards). |
 | ![Wealth](https://github.com/mosquitogames/1819rulebook/blob/main/img/wealth.png?raw=true) | Gain *x* amount of **Wealth**. |
 | ![Public Work](https://github.com/mosquitogames/1819rulebook/blob/main/img/public_works.png?raw=true) | **Public Works** card: Add Player token to Public Works track. See [Upkeep](/sequence-of-play#4-upkeep-phase). |
@@ -57,3 +61,11 @@ To make, break, or change connections after purchase, use [the Move action](/con
     - Boosts are passives or special modifiers that take effect as soon as the card is bought --- even before instant effects are resolved.
     - Actions are triggered whenever a card is Activated, and are described using the same iconography as Immediate Effects. See [Activate](/activate).
     - End Game bonuses provide additional ways to earn VPs at endgame.
+    
+## Buy Battle Card
+
+Pay $2 to draw the top card from your faction's Battle deck. Keep Battle cards hidden in your hand. The card's **Strength** is indicated in bold.
+
+![Battle cards](https://www.dropbox.com/s/43kusdaoqejugcj/battle__card_anatomy.png?dl=1)
+
+> *Example.* The battle decks are have differently-colored backs for the British Agents (blue) and Malay Chiefs (green). The British Regulars have a Strength of 2, while Buto Ijo has Strength of 8.

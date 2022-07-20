@@ -13,7 +13,7 @@ The game ends when, at the **end** of a round,
 - all ships are on the Port track, i.e., Singapore prospers; or
 - no ships are left, i.e., Singapore collapses.
 
-> *Example.*  On his first action, the Sultan goes on a successful Raid, removing the last ship from the Port track. But on his second action, the Sultan clears a Village, adding one ship back. The game is not over yet!
+> *Example.*  On his first action, the Sultan goes on a successful Raid, removing the last ship from the Port track. But on his second action, the Sultan clears a District, adding one ship back. The game is not over yet!
 
 ## Scoring
 Players now tally Victory Points:
