@@ -46,7 +46,7 @@ Reveal the top card of the Event deck and place it on the Event space.
 Place your mini-figure on an open Leader space, starting with the First Player. The Leader space gives you a Free Action you may use this round. *(On your first game, your starting Priorities are decided for you.)*
 
 ## 3. Action phase
-Play proceeds from the First Player. On your turn, take two core Actions, and any free Actions, in any order. The 6 Core Actions are:
+Play proceeds from the First Player. On your turn, take two core Actions and any free Actions, in any order. The 6 Core Actions are:
 
 - **Buy** an Emporium or Battle card
 - **Populate** Singapore with a Population card
@@ -58,6 +58,10 @@ Play proceeds from the First Player. On your turn, take two core Actions, and an
 Free Actions may only be taken once. Core Actions may be taken twice. You need not take all your Actions.
 
 Actions are explained in detail in [the next section](/actions).
+
+![Leader space](/img/leader_space.jpg)
+
+> *Example.* You are the <span style="color:blue"><strong>Blue</strong></span> player. For your two Core Actions this round, you Buy a Battle card and issue a Decree. Thanks to the Leader space you are on, you pay $1 in order to Populate as a third, free Action.
 
 <!-- *3-player game: the solo player takes 3 actions per turn.* -->
 

@@ -20,7 +20,7 @@ Hand each player a board and corresponding Leader card. Have players on the same
 | Temenggong | Battle |
 | Sultan | Population |
 
-Leader spaces reflect players' priorities for the round.
+Leader spaces give players free Actions that reflect their priorities for the round.
 
 ### B. Legacy and Attribute tiles
 
