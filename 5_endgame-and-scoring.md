@@ -26,7 +26,7 @@ Players now tally Victory Points:
 "A player may choose to forfeit their share of the Storehouse to give the other player on their faction a Victory Point boost."
  -->
 
-The player with the most Victory Points wins, securing their legacy as the first ruler of Singapore.
+The player with the most Victory Points wins, securing their legacy as the "founder among founders" of Singapore.
 
 <!-- 
 ## Simulation Mode
