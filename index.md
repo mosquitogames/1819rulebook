@@ -39,6 +39,6 @@ When the British Agents initially arrived in the Malayan Straits --- a corner of
 
 However, halfway through the game, the Treaty of London makes peace between the Dutch and the British Agents, who no longer need to appease the Malay Chiefs. The Singapore Treaty is overruled, the Malay Chiefs lose their leverage, and the threat of War looms larger on the horizon...
 
-The goal of the game --- to have the most VPs --- represents having attained the kind of persistent historical status enjoyed by the real-life Lieutenant-Governor of Singapore, Stamford Raffles, who has roads, schools, and at least one hotel named after him.
+The goal of the game --- to have the most VPs --- represents attaining the persistent historical status enjoyed by the real-life Lieutenant-Governor of Singapore, Stamford Raffles, who has roads, schools, and at least one hotel named after him.
 
 *1819* gives the other historical players a chance at the spotlight.
