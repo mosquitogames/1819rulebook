@@ -7,15 +7,15 @@ nav_order: 3
 ---
 ## Activate
 
-Activate one card or Community in your tableau. Take all Actions listed. **Each card or Community may only be Activated once per round.**
+Activate 1 card or Community in your tableau. Take all Actions listed. **Each card or Community may only be Activated once per round.**
 
 ![Activate cards](https://www.dropbox.com/s/qoehaw5u6qix4y7/activate.png?dl=1)
 
-> *Example.* In your tableau, you have one card, Opium Tax Farm; and one Community, consisting of Sports Day, Temenggong, and Gutta Percha Plantation.
+> *Example.* In your tableau, you have 1 standalone card, Opium Tax Farm, and 1 Community, consisting of Sports Day, Temenggong, and Gutta Percha Plantation.
 
 > For your first Action, you Activate the Community:
 - Sports Day lets you place 2 Influence tokens on Districts;
 - Temenggong lets you place 1 token in the Malay Storehouse;
 - Gutta Percha lets you earn $2 ($1 base + $1 from the Population card attached).
 
-> For your second Action, you can Activate the Opium Tax Farm, or play some other Action. You may not re-activate the same Community.
+> For your second Action, you can Activate the Opium Tax Farm, or play some other Action. You may not re-activate that Community.

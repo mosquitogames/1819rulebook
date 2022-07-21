@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Buy Emporium Card
 
-Buy an available card from the Emporium, then:
+Buy one available card from the Emporium, then:
 
 1. Resolve any instant effects;
 2. Add the card to your tableau, making at most one connection; then
@@ -28,7 +28,7 @@ Buy an available card from the Emporium, then:
 
 | Symbol | Instant effect |
 | :---: | :---: |
-| ![Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Add *n* **Influence** tokens to Districts. See [Adding Influence](/concepts#placing-influence). |
+| ![Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/concepts#placing-influence). |
 | ![Move](https://github.com/mosquitogames/1819rulebook/blob/main/img/move.png?raw=true) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](/concepts#moving-cards). |
 | ![Wealth](https://github.com/mosquitogames/1819rulebook/blob/main/img/wealth.png?raw=true) | Gain *x* amount of **Wealth**. |
 | ![Public Work](https://github.com/mosquitogames/1819rulebook/blob/main/img/public_works.png?raw=true) | **Public Works** card: Add Player token to Public Works track. See [Upkeep](/sequence-of-play#4-upkeep-phase). |
@@ -47,7 +47,7 @@ Buy an available card from the Emporium, then:
 
 Connections can be made between connectors with **opposite shapes** and **identical colors**. When you buy an Emporium card, make up to 1 valid connection.
 
-> *Example.* You have four cards in your Tableau:
+> *Example.* You have 4 cards in your Tableau:
 - Cathedral and Hajjah Fatimah are connected.
 - Alexander Guthrie and Sports Day *could have been* connected, using Guthrie's left connector.
 
