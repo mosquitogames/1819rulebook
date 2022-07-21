@@ -68,7 +68,7 @@ All players receive 1 VP per Tax token on the board.
 
 If Public Works \\(\leq\\) Tax, Upkeep is met! The players with the most Tax tokens on the track receive 2 VPs per token.
 
-If Public Works \\(\>\\) Tax, Upkeep is failed. All players who own Public Work tokens in excess of the Tax tokens must pay **$ Upkeep Multiplier** (the leftmost open value on the Multiplier track) per Work.
+If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token of theirs. All players who own Public Work tokens in excess of the Tax tokens must pay **$ Upkeep Multiplier** (the leftmost open value on the Multiplier track) per Work.
 
 ![Upkeep](https://www.dropbox.com/s/vb5yzneuhhzz90v/upkeep_example.png?dl=1)
 
