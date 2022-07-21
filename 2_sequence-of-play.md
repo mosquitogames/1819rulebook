@@ -70,7 +70,7 @@ If Public Works \\(\leq\\) Tax, Upkeep is met! The players with the most Tax tok
 
 If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token of theirs. All players who own Public Work tokens in excess of the Tax tokens must pay **$ Upkeep Multiplier** (the leftmost open value on the Multiplier track) per Work.
 
-![Upkeep](https://www.dropbox.com/s/vb5yzneuhhzz90v/upkeep_example.png?dl=1)
+![Upkeep](/img/upkeep_example.jpg)
 
 > *Example.* There are 4 Tax tokens and 6 Public Works tokens, so Upkeep is failed. The <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Purple</strong></span> players each have an unfunded Public Work. They must each pay 1 token \\(\times\\) Upkeep Multiplier of 2 = $2.
 
@@ -80,7 +80,7 @@ If you **cannot afford** to fund your Public Work, you must:
 3. discard any attached Population cards, and
 4. remove the corresponding number of Population cubes from the board.
 
-Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Flipping cards](/concepts#flipping-cards).
+Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Flipping cards](/important-concepts#flipping-cards).
 
 ## 5. Flush the Emporium
 Discard the rightmost Emporium card. Shift the other cards one space to the right, then draw the top card of the Emporium deck to fill the leftmost space.

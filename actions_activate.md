@@ -9,7 +9,7 @@ nav_order: 3
 
 Activate 1 card or Community in your tableau. Take all Actions listed. **Each card or Community may only be Activated once per round.**
 
-![Activate cards](https://www.dropbox.com/s/qoehaw5u6qix4y7/activate.png?dl=1)
+![Activate cards](/img/activate.jpg)
 
 > *Example.* In your tableau, you have 1 standalone card, Opium Tax Farm, and 1 Community, consisting of Sports Day, Temenggong, and Gutta Percha Plantation.
 

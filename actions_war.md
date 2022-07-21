@@ -24,7 +24,7 @@ Discard all revealed Battle cards. Remove a ship from the Port.
 
 The winner may **steal the loser's Wealth** and/or **gain Victory Points** up to a maximum of **Total Strength difference \\(\times\\) Spoils of War Multiplier**.
 
-![Battle example.](https://www.dropbox.com/s/zksdvwcj716aqyi/battle_example.png?dl=1)
+![Battle example.](/img/battle_example.jpg)
 
 > *Example.*
 The Resident *(British Agent)* attacks the Sultan *(Malay Chief)*. The Temenggong comes to the Sultan's aid.

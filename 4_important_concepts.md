@@ -11,7 +11,7 @@ nav_order: 4
 
 Starting at any open District, place 1 Influence token per District, going in the direction of the arrows. When you pass by a Storehouse, you may (but need not) place 1 Influence on it.
 
-![Starting districts](https://www.dropbox.com/s/qwf14yu08t5oye8/districts_1.png?dl=1)
+![Starting districts](/img/districts_1.jpg)
 
 > *Example.* On the board above,
 - 2 green Districts and 1 blue District are open.
@@ -20,7 +20,7 @@ Starting at any open District, place 1 Influence token per District, going in th
 
 > You are the <span style="color:magenta"><strong>Purple</strong></span> Malay Chief. You purchase History Tome.
 
-![Adding Influence](https://www.dropbox.com/s/y28au1t9894flgs/districts_2.png?dl=1)
+![Adding Influence](/img/districts_2.jpg)
 > History Tome instantly gives you 4 Influence:
 - You decide to place the 1st token on the first green District.
 - Following the arrows, you place the 2nd token on the second green District.
@@ -37,7 +37,7 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 3. Clear the District of tokens. Return tokens to players.
 4. Add a ship to the Port track.
 
-![Scoring Districts](https://www.dropbox.com/s/gdzamst7m9wziiw/districts_3.png?dl=1)
+![Scoring Districts](/img/districts_3.jpg)
 
 > *Example, continued.* After placing Influence from History Tome, the second green District now has 5 tokens.
 - The Malay Chief players --- here, the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Purple</strong></span> players --- are eligible to score.
@@ -53,13 +53,13 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 
 Populate your faction's Districts by placing Population cubes in the **leftmost** available space below. Filling these spaces unlock higher-scoring Districts. When a District is unlocked, move the black marker to cover the next circle on the Multiplier track.
 
-![Starting Population](https://www.dropbox.com/s/ffioqojs8o9pejl/population_1.png?dl=1)
+![Starting Population](/img/population_1.jpg)
 
 > *Example.* The Malay faction has 7 Population cubes, while the British have 5.
 - The Malay faction has unlocked their second green district.
 - The active Multiplier is \\(\times 1\\).
 
-![Add Population](https://www.dropbox.com/s/mk2q30r2m0dn65b/population_2.png?dl=1)
+![Add Population](/img/population_2.jpg)
 
 > You are the <span style="color:red"><strong>Red</strong></span> player (British). You take the Populate Action and draw the Orang Laut, giving you 2 Population cubes.
 - You place the 1st cube in the leftmost British Population space, filling it and unlocking your second District.
@@ -71,7 +71,7 @@ Populate your faction's Districts by placing Population cubes in the **leftmost*
 
 When Population is lost, remove cubes starting from the **right**. When a space is no longer filled, the District above it closes: move the black marker back from the Multiplier track, and discard any Influence tokens on the District.
 
-![Losing Population](https://www.dropbox.com/s/t2hr7f6rm4ipshc/population_3.png?dl=1)
+![Losing Population](/img/population_3.jpg)
 
 > *Example, continued.* It is now the Event phase. The Minor Economic Recession appears, causing each faction to lose (2 \\(\times\\) die roll) Population cubes.
 - You roll a 1. Both factions lose 2 Population cubes and close their second Districts.
@@ -84,7 +84,7 @@ Thus, face-down cards remain in their places on tableaus, but cannot be Activate
 
 Face-down cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost. Rebuilding restores Tax or Public Work tokens to the appropriate tracks. Rebuilding does **not** restore discarded Population, nor does it rebuild a broken Community.
 
-![Flipping cards](https://www.dropbox.com/s/i9vnxcckq738vvw/flipping_cards.png?dl=1)
+![Flipping cards](/img/flipping_cards.jpg)
 
 > *Example.* Your Tableau had one Community, consisting of G.D. Coleman, School, and Resident.
 - Dring Upkeep, you were unable to fund your School.
@@ -101,7 +101,7 @@ You can move **standalone cards** and **cards at the edges of Communities**. Pop
 
 One move must be completed before the next one can begin.
 
-![Move card](https://www.dropbox.com/s/o1w2cutmwzjv199/move_1.png?dl=1)
+![Move card](/img/move_1.jpg)
 
 > *Example.* You have a Community of three cards and one standalone card in your tableau. You may move any card except School. With 1 move, you can:
 - Connect Sports Day (together with Orang Laut) to G.D. Coleman; or

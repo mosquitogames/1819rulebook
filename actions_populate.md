@@ -13,7 +13,7 @@ Draw the top card of the Population deck, then:
 
 **If your tableau has no vacant Population slots, you may not Populate!**
 
-![Population cards](https://www.dropbox.com/s/xglv6igzv9pis91/population_tableau.png?dl=1)
+![Population cards](/img/population_tableau.jpg)
 
 > *Example.* Your tableau has 2 cards: the Temenggong and the Opium Tax Farm.
 - The Teochews Population card occupies the Temenggong's only Population slot.
@@ -21,7 +21,7 @@ Draw the top card of the Population deck, then:
 
 ## Instant effects
 
-| Symbol | Instant effect |
+| Symbol | Meaning |
 | :---: | :---: |
-| ![Populate](https://github.com/mosquitogames/1819rulebook/blob/main/img/immigrants.png?raw=true) | Add *n* **Population** cubes to Districts. See [Placing Population](/concepts#populating-districts). |
-| ![Influence](https://github.com/mosquitogames/1819rulebook/blob/main/img/influence.png?raw=true) | Place *n* **Influence** tokens on Districts. See [Adding Influence](/concepts#placing-influence). |
+| ![Populate](/img/icons/immigrants.png) | Add *n* **Population** cubes to Districts. See [Placing Population](/important-concepts#placing-population). |
+| ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/important-concepts#placing-influence). |

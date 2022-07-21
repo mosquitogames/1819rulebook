@@ -11,7 +11,7 @@ Spend 5 tokens of any colour from your Storehouse to **outlaw** or **legalize** 
 
 The exception is **Slavery**, which costs 8 tokens to outlaw, and cannot be legalized thereafter.
 
-![Vice spaces](https://www.dropbox.com/s/xu2tnawgg3s944n/vice_space.png?dl=1)
+![Vice spaces](/img/vice_space.jpg)
 
 > *Example.* Gambling and Opium are outlawed, while Slavery, Liquor, and Prostitution are legal.
 

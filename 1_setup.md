@@ -5,7 +5,7 @@ permalink: /setup
 nav_order: 1
 ---
 
-![Game setup](https://www.dropbox.com/s/3tt064f2qy1uor5/game_setup.png?dl=1)
+![Game setup](/img/game_setup.jpg)
 
 ## Player Setup
 
