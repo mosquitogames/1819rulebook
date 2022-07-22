@@ -99,7 +99,7 @@ You can move **standalone cards** and **cards at the edges of Communities**. Pop
 - Separate a card from a Community.
 - Separate a card from one Community and connect it to another.
 
-One move must be completed before the next one can begin.
+One move must be completed before the next one can begin. You may make fewer moves than specified, or opt not to move any card.
 
 ![Move card](/img/move_1.jpg)
 
