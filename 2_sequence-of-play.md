@@ -39,7 +39,7 @@ Reveal the top card of the Event deck and place it on the Event space.
 - In succeeding rounds, pass the token to the next (clockwise) player.
 
 ### b. Distribute Income
-- In the first round, hand each player $5.
+- In the first round, hand each player $3.
 - In succeeding rounds, hand each player the amount specified by the highest Port space with a ship on it.
 
 ### c. Place Leaders

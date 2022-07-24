@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Placing Influence
 
-Starting at any open District, place 1 Influence token per District, going in the direction of the arrows. When you pass by a Storehouse, you may (but need not) place 1 Influence on it.
+Starting at any open District or Storehouse, place 1 Influence token per space, going in the direction of the arrows. When you pass by a Storehouse, you may (but need not) place 1 Influence on it.
 
 ![Starting districts](/img/districts_1.jpg)
 
@@ -34,7 +34,7 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 
 1. Check the District's color. British Agents only score VPs from blue Districts, while Malay Chiefs only score VPs from green Districts.
 2. If you are eligible, count how many of **your** tokens are on the District. Gain **(District Multiplier)** VPs per token.
-3. Clear the District of tokens. Return tokens to players.
+3. Clear the District of any 5 tokens. Return tokens to players.
 4. Add a ship to the Port track.
 
 ![Scoring Districts](/img/districts_3.jpg)
@@ -51,7 +51,7 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 
 ## Placing Population
 
-Populate your faction's Districts by placing Population cubes in the **leftmost** available space below. Filling these spaces unlock higher-scoring Districts. When a District is unlocked, move the black marker to cover the next circle on the Multiplier track.
+Populate your faction's Districts by placing Population cubes in the **leftmost** available box below. Filling these boxes unlock higher-scoring Districts. When a District is unlocked, move the black marker to cover the next circle on the Multiplier track.
 
 ![Starting Population](/img/population_1.jpg)
 
@@ -62,14 +62,14 @@ Populate your faction's Districts by placing Population cubes in the **leftmost*
 ![Add Population](/img/population_2.jpg)
 
 > You are the <span style="color:red"><strong>Red</strong></span> player (British). You take the Populate Action and draw the Orang Laut, giving you 2 Population cubes.
-- You place the 1st cube in the leftmost British Population space, filling it and unlocking your second District.
+- You place the 1st cube in the leftmost British Population box, filling it and unlocking your second District.
 - You move the marker to the Multiplier track. The active Multiplier is now \\(\times 2\\).
-- You place the 2nd cube on the next space.
+- You place the 2nd cube on the next box.
 
 ### Losing Population
 {: .no_toc }
 
-When Population is lost, remove cubes starting from the **right**. When a space is no longer filled, the District above it closes: move the black marker back from the Multiplier track, and discard any Influence tokens on the District.
+When Population is lost, remove cubes starting from the **right**. When a box is no longer filled, the District above it closes: move the black marker back from the Multiplier track, and discard any Influence tokens on the District.
 
 ![Losing Population](/img/population_3.jpg)
 
@@ -80,7 +80,7 @@ When Population is lost, remove cubes starting from the **right**. When a space 
 ## Flipping Cards
 When Public Works are unfunded or Vices are outlawed, their physical structures --- while still standing --- have been shuttered, and the workers tending to its functions have left.
 
-Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated Tax or Public Work tokens are removed. All attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
+Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated Tax or Public Work tokens are removed. Any attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
 
 Face-down cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost. Rebuilding restores Tax or Public Work tokens to the appropriate tracks. Rebuilding does **not** restore discarded Population, nor does it rebuild a broken Community.
 
