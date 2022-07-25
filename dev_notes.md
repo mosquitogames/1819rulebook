@@ -12,7 +12,7 @@ nav_order: 7
 ### "Build-a-leader"
 In the game you played, the player boards come prebuilt with characters based on historical figures, and some adaptation of their real-life Legacies and Attributes. We plan to flesh out some system for players to pick and choose Legacies and Attributes to "build a leader" with a unique combination of philosophy, desired legacy, and special ability. 
 
-We imagine a "blank slate" player board on the reverse side of the player boards currently already in use, similar to the double-sided player boards in *Ghost Stories*.
+We imagine double-sided player boards like the ones in *Ghost Stories*, except that the reverse side is not another prebuilt character, but rather an entirely a blank slate with spaces to place Legacy and Attribute tiles.
 
 ### Player counts
 The game was primarily built for and tested on a 4-player setup. With some tweaks, we've seen the game work at 3 and even 2 players, though the tweaks haven't been tested extensively and have room for improvement.
@@ -27,7 +27,7 @@ The solution we put forward in the [museum version of the game](https://www.yout
 
 The second is Simulation mode, in which we hope to explore what "winning" means for an outgunned, colonized people --- which we argue involves a seismic shift of mindset and self-perception on behalf of the Malay Chiefs that allowed them some sense of achievement despite political, if not material, subjugation.
 
-(This is the path that Daeng Ibrahim --- the historical figure the Temenggong character is based on --- would take, going the way of Anglophilia and integration into British society.)
+(This is the path that the descendants of Temenggong Abdul Rahman would take, going the way of Anglophilia and integration into British society.)
 
 The main idea is that Malay Chiefs would no longer have access to their higher-strength mythical Battle cards, but would now have the ability to swap out their starting Legacies based on sovereignty and self-sufficiency (accumulate Wealth, become 'Pirate King') in favor of "Colonial Legacies" (e.g., recruiting British personalities) that 1) penalize British Agents who wage war anyway on colonial subjects, and 2) give Malay Chiefs a new avenue to earn VPs, at the "cost" of the Legacies they had dreamt for themselves.
 
