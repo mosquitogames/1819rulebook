@@ -16,7 +16,7 @@ Buy one available card from the Market, then:
 2. Add the card to your tableau, making at most one connection; then
 3. Shift all face-up cards to the right, and draw the top card of the Market deck to fill the leftmost space.
 
-## Anatomy of an Market card
+## Anatomy of a Market card
 {: .no_toc }
 
 ![Market cards](/img/market_card_anatomy.jpg)

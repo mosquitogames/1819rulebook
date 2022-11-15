@@ -23,7 +23,3 @@ Players now tally Victory Points:
 - from their Storehouse, split evenly between faction players (rounding down).
 
 The player with the most Victory Points wins, securing their legacy as the "founder among founders" of Singapore.
-
-<!-- 
-## Simulation Mode
- -->

@@ -2,7 +2,7 @@
 layout: page
 title: Icons Reference List
 permalink: /icons
-nav_order: 6
+nav_order: 7
 ---
 ## Icons Reference List
 
