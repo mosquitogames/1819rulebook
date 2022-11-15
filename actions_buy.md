@@ -8,18 +8,18 @@ nav_order: 1
 1. TOC
 {:toc}
 
-## Buy Emporium Card
+## Buy Market Card
 
-Buy one available card from the Emporium, then:
+Buy one available card from the Market, then:
 
 1. Resolve any instant effects;
 2. Add the card to your tableau, making at most one connection; then
-3. Shift all face-up cards to the right, and draw the top card of the Emporium deck to fill the leftmost space.
+3. Shift all face-up cards to the right, and draw the top card of the Market deck to fill the leftmost space.
 
-## Anatomy of an Emporium card
+## Anatomy of an Market card
 {: .no_toc }
 
-![Emporium cards](/img/emporium_card_anatomy.jpg)
+![Market cards](/img/market_card_anatomy.jpg)
 
 - **A. Price.** Some cards have distinct prices for British Agents (blue) and Malay Chiefs (green).
 > *Example.* Natural History Drawings and Police Force cost $3 for all players. Syed Omar Aljunied costs British Agents $4, but Malay Chiefs only $2.
@@ -45,7 +45,7 @@ Buy one available card from the Emporium, then:
 
 ![Community](/img/community.jpg)
 
-Connections can be made between connectors with **opposite shapes** and **identical colors**. When you buy an Emporium card, make up to 1 valid connection.
+Connections can be made between connectors with **opposite shapes** and **identical colors**. When you buy a Market card, make up to 1 valid connection.
 
 > *Example.* You have 4 cards in your Tableau:
 - Cathedral and Hajjah Fatimah are connected.

@@ -15,8 +15,8 @@ Hand each player a board and corresponding Leader card. Have players on the same
 
 | Mini-figure | Starting Leader space |
 | :---: | :---: |
-| Governor | Emporium |
-| Resident | Emporium |
+| Governor | Market |
+| Resident | Market |
 | Temenggong | Battle |
 | Sultan | Population |
 
@@ -61,9 +61,9 @@ Separate the Event cards by their backs: Event I, Event II, and the Treaties.
 
 Put the rest of the Event cards away.
 
-### G. Emporium cards
+### G. Market cards
 
-Shuffle the Emporium deck and place it face down on the appropriate space. Deal the first 5 cards face up onto the Emporium from right to left.
+Shuffle the Market deck and place it face down on the appropriate space. Deal the first 5 cards face up onto the Market from right to left.
 
 ### H. Population cards
 

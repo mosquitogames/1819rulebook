@@ -12,9 +12,9 @@ nav_order: 2
 2. [Leader phase](#2-leader-phase)
 3. [Action phase](#3-action-phase)
 4. [Upkeep phase](#4-upkeep-phase)
-5. [Flush the Emporium](#5-flush-the-emporium)
+5. [Flush the Market](#5-flush-the-market)
 
-In the **Event** phase, players draw and collectively resolve an Event card. In the **Leader** phase, players decide on their priorities for the round. In the **Action** phase, players take two actions each, going clockwise from the First Player. In the **Upkeep** phase, players collectively meet the cost of maintaining Singapore. Finally, the Emporium is flushed.
+In the **Event** phase, players draw and collectively resolve an Event card. In the **Leader** phase, players decide on their priorities for the round. In the **Action** phase, players take two actions each, going clockwise from the First Player. In the **Upkeep** phase, players collectively meet the cost of maintaining Singapore. Finally, the Market is flushed.
 
 <!-- ---crises, global events, or shifting social mores that affect the rulers' status quo. -->
 
@@ -48,7 +48,7 @@ Place your mini-figure on an open Leader space, starting with the First Player. 
 ## 3. Action phase
 Play proceeds from the First Player. On your turn, take two core Actions and any free Actions, in any order. The 6 Core Actions are:
 
-- **Buy** an Emporium or Battle card
+- **Buy** a Market or Battle card
 - **Populate** Singapore with a Population card
 - **Activate** a card or community
 - Go on a **Raid**
@@ -86,5 +86,5 @@ If you **cannot afford** to fund your Public Work, you must:
 
 Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Flipping cards](/important-concepts#flipping-cards).
 
-## 5. Flush the Emporium
-Discard the rightmost Emporium card. Shift the other cards one space to the right, then draw the top card of the Emporium deck to fill the leftmost space.
+## 5. Flush the Market
+Discard the rightmost Market card. Shift the other cards one space to the right, then draw the top card of the Market deck to fill the leftmost space.

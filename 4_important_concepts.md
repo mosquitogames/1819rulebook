@@ -109,4 +109,4 @@ Cards cannot be moved between tableaus. One move must be completed before the ne
 - Separate the Resident from School and connect him to Sports Day.
 
 ## Resources
-Emporium, Population, and Battle decks are finite. Player tokens, population cubes, and money are not. Should the game run out of the latter, use suitable replacements.
+Market, Population, and Battle decks are finite. Player tokens, population cubes, and money are not. Should the game run out of the latter, use suitable replacements.

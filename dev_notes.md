@@ -38,5 +38,5 @@ The main idea is that Malay Chiefs would no longer have access to their higher-s
 We wanted to firm up Fantasy Mode before complicating our systems with Simulation Mode. Many things are still up in the air --- none of the mechanics above have been tested at length, and indeed there may be better game designs that achieve a similar historical argument. Nonetheless, the intention to develop this mode stands.
 
 ## Currently thinking about
-- Reducing chores (flushing Emporium, moving First Player token, double-tracking population as cards and as cubes) and potential fragility (preventing Pirate King from ending the game in the first round).
+- Reducing chores (flushing Market, moving First Player token, double-tracking population as cards and as cubes) and potential fragility (preventing Pirate King from ending the game in the first round).
 - Handling Vice cards and Slavery cards ethically and tastefully, respecting the sensibilities of an international audience while staying true to the Southeast Asian historical context.
