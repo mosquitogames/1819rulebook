@@ -14,13 +14,7 @@ The year is 1819. **British Agents** have arrived on the shores of Singapore, pi
 
 Only one ruler's legacy will endure the centuries---but legacy means nothing if Singapore collapses. So the rulers must work together...for now.
 
-<!-- 
-In order to bring prosperity to Singapore and fulfill their own dreams, they must work together...for now.
- -->
-
 ## Goal
-
-<!-- Core concepts here: goal, characters, Influence and its importance. -->
 
 The player with the most **Victory Points** (VPs) at the end of the game wins. Players earn Victory Points by:
 
