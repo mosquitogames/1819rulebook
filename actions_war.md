@@ -13,7 +13,7 @@ Spend 7 tokens of any colour from your Storehouse to declare War on **one** play
 
 **War counts as 2 Actions.** It occurs in 4 stages:
 
-1. Faction-mates decide whether to join the War or sit it out.
+1. Faction-mates decide whether to **Join the War** or sit it out.
 2. Each player involved in War commits up to one Battle card by placing it face down on the table.
 3. The attacker and defender each roll 2 dice, then reveal the Battle cards.
 4. The player with the higher total Strength **(die roll + faction Battle card/s)** wins!
