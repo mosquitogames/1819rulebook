@@ -59,7 +59,7 @@ The Core Actions are:
 
 The same Core Action may be taken twice.
 
-Actions are explained in detail in [the next section](/actions).
+Actions are explained in detail in [the next section](/1819rulebook/actions).
 
 ![Leader space](/img/leader_space.jpg)
 
@@ -86,7 +86,7 @@ If you **cannot afford** to fund your Public Work, you must:
 3. discard any attached Population cards, and
 4. remove the corresponding number of Population cubes from the board.
 
-Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Flipping cards](/important-concepts#flipping-cards).
+Face-down Public Works cannot be Activated. On your turn, you may flip a face-down card back up by paying its price as a free Action. See [Flipping cards](/1819rulebook/important-concepts#flipping-cards).
 
 ### b. Remove Leaders from Leader spaces.
 

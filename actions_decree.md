@@ -9,11 +9,11 @@ nav_order: 5
 
 Spend 5 tokens of any colour from your Storehouse to **outlaw** or **legalize** a Vice. At the start of the game, all Vices are legal. Vices can be outlawed and legalized repeatedly.
 
-The exception is **Slavery**, which costs 8 tokens to outlaw, and cannot be legalized thereafter.
+The exception is **Hamba Abdi**, which costs 8 tokens to outlaw, and cannot be legalized thereafter.
 
 ![Vice spaces](/img/vice_space.jpg)
 
-> *Example.* Gambling and Opium are outlawed, while Slavery, Liquor, and Prostitution are legal.
+> *Example.* Gambling and Opium are outlawed, while Hamba Abdi, Liquor, and Prostitution are legal.
 
 ### Outlaw
 When you outlaw a Vice:

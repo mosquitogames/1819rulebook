@@ -28,14 +28,14 @@ Buy one available card from the Market, then:
 
 | Symbol | Meaning |
 | :---: | :---: |
-| ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/important-concepts#placing-influence). |
-| ![Move](/img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](/important-concepts#moving-cards). |
+| ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/1819rulebook/important-concepts#placing-influence). |
+| ![Move](/img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](/1819rulebook/important-concepts#moving-cards). |
 | ![Wealth](/img/icons/wealth.png) | Gain *x* amount of **Wealth**. |
-| ![Public Work](/img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Upkeep phase](/sequence-of-play#4-upkeep-phase). |
-| ![Tax](/img/icons/tax.png) | **Tax** card: Add Player tokens to Tax track based on Tax Value. See [Upkeep phase](/sequence-of-play#4-upkeep-phase). |
-| ![Personality](/img/icons/personality.png) | **Personality** card: Nothing to resolve. |
-| ![Commerce](/img/icons/commerce.png) | **Commerce** card: Nothing to resolve. |
-| ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Nothing to resolve. |
+| ![Public Work](/img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Upkeep phase](/1819rulebook/sequence-of-play#4-upkeep-phase). |
+| ![Tax](/img/icons/tax.png) | **Tax** card: Add Player tokens to Tax track based on Tax Value. See [Upkeep phase](/1819rulebook/sequence-of-play#4-upkeep-phase). |
+<!-- | ![Personality](/img/icons/personality.png) | **Personality** card: Nothing to resolve. |
+| ![Commerce](/img/icons/commerce.png) | **Commerce** card: Nothing to resolve. | -->
+| ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Hamba Abdi</strong></span> card: Nothing to resolve. |
 
 - **C. Population slots.** Cards with Population symbols can accommodate Population cards. Some Actions depend on the number of Population cards attached.
 
@@ -55,11 +55,11 @@ Connections can be made between connectors with **opposite shapes** and **identi
 - It can connect with *either* Hajjah Fatimah or Alexander Guthrie.
 - However, you must choose only **one** connection to make.
 
-To make, break, or change connections after purchase, use [the Move action](/important-concepts#moving-cards).
+To make, break, or change connections after purchase, use [the Move action](/1819rulebook/important-concepts#moving-cards).
 
 - **E. Boosts, Actions and End Game bonuses.**
     - Boosts are passives or special modifiers that take effect as soon as the card is bought --- even before instant effects are resolved.
-    - Actions are triggered whenever a card is Activated, and are described using the same iconography as Immediate Effects. See [Activate](/activate).
+    - Actions are triggered whenever a card is Activated, and are described using the same iconography as Immediate Effects. See [Activate](/1819rulebook/activate).
     - End Game bonuses provide additional ways to earn VPs at endgame.
     
 ## Buy Battle Card

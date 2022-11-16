@@ -78,11 +78,19 @@ When Population is lost, remove cubes starting from the **right**. When a box is
 - The <span style="color:blue"><strong>Blue</strong></span> player's token is discarded.
 
 ## Flipping Cards
-When Public Works are unfunded or Vices are outlawed, their physical structures --- while still standing --- have been shuttered, and the workers tending to its functions have left.
+When Public Works are unfunded
+<!-- or Vices are outlawed -->
+, their physical structures --- while still standing --- have been shuttered, and the workers tending to its functions have left.
 
-Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated Tax or Public Work tokens are removed. Any attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
+Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated 
+<!-- Tax or -->
+Public Work tokens are removed. Any attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
 
-Face-down cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost. Rebuilding restores Tax or Public Work tokens to the appropriate tracks. Rebuilding does **not** restore discarded Population, nor does it rebuild a broken Community.
+Face-down cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost. Rebuilding restores 
+<!-- Tax or  -->
+Public Work tokens. 
+ <!-- to the appropriate tracks. -->
+Rebuilding does **not** restore discarded Population, nor does it rebuild a broken Community.
 
 ![Flipping cards](/img/flipping_cards.jpg)
 
