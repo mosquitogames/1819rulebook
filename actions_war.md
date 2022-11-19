@@ -20,7 +20,7 @@ Spend 7 tokens of any colour from your Storehouse to declare War on **one** play
 
 ## The Aftermath
 
-Discard all revealed Battle cards. Remove a ship from the Port.
+Discard all revealed Battle cards. Remove a Ship from the Port.
 
 The winner may **steal the loser's Wealth** and/or **gain Victory Points** up to a maximum of **Total Strength difference \\(\times\\) Spoils of War Multiplier**.
 

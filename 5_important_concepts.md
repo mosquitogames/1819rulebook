@@ -2,7 +2,7 @@
 layout: page
 title: Important Concepts
 permalink: /important-concepts
-nav_order: 4
+nav_order: 5
 ---
 1. TOC
 {:toc}
@@ -34,8 +34,8 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 
 1. Check the District's color. British Agents only score VPs from blue Districts, while Malay Chiefs only score VPs from green Districts.
 2. If you are eligible, count how many of **your** tokens are on the District. Gain **(District Multiplier)** VPs per token.
-3. Clear the District of any 5 tokens. Return tokens to players.
-4. Add a ship to the Port track.
+3. Clear the District of all tokens. Return tokens to players.
+4. If the District has a ship icon, add a Ship to the Port track.
 
 ![Scoring Districts](/img/districts_3.jpg)
 
@@ -47,7 +47,9 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 ### Clarifications
 {: .no_toc }
 
-- When placing Influence multiple times on the same Action --- e.g., when Activating a Community where multiple cards yield Influence --- you must score and clear Districts **immediately** after each placement.
+- When placing Influence multiple times on the same Action --- e.g., when Activating a Community where multiple cards yield Influence --- you must first add up 
+
+<!-- score and clear Districts **immediately** after each placement. -->
 
 ## Placing Population
 
@@ -78,6 +80,10 @@ When Population is lost, remove cubes starting from the **right**. When a box is
 - The <span style="color:blue"><strong>Blue</strong></span> player's token is discarded.
 
 ## Flipping Cards
+
+Vice cards
+
+
 When Public Works are unfunded
 <!-- or Vices are outlawed -->
 , their physical structures --- while still standing --- have been shuttered, and the workers tending to its functions have left.
@@ -85,6 +91,10 @@ When Public Works are unfunded
 Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated 
 <!-- Tax or -->
 Public Work tokens are removed. Any attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
+
+Public Works cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost.
+
+Vice cards may be "rebuilt" (i.e., turned face-up)
 
 Face-down cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost. Rebuilding restores 
 <!-- Tax or  -->

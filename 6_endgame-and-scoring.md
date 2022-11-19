@@ -2,7 +2,7 @@
 layout: page
 title: Endgame and Scoring
 permalink: /endgame-and-scoring
-nav_order: 5
+nav_order: 6
 ---
 
 ## Endgame conditions
@@ -11,9 +11,9 @@ The game ends when, at the **end** of a round,
 
 - there are no Event cards left; or
 <!-- - all ships are on the Port track, i.e., Singapore prospers; or -->
-- no ships are left, i.e., Singapore collapses.
+- no Ships are left, i.e., Singapore collapses.
 
-> *Example.*  On his first action, the Sultan goes on a successful Raid, removing the last ship from the Port track. But on his second action, the Sultan clears a District, adding one ship back. The game is not over yet!
+<!-- > *Example.*  On his first action, the Sultan goes on a successful Raid, removing the last Ship from the Port track. But on his second action, the Sultan clears a District, adding one ship back. The game is not over yet! -->
 
 ## Scoring
 Players now tally Victory Points:

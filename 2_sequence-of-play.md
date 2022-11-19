@@ -23,13 +23,16 @@ The game ends when, at the **end** of a round,
 
 - there are no Event cards left; or
 <!-- - all ships are on the Port track, i.e., Singapore prospers; or -->
-- no ships are left, i.e., Singapore collapses.
+- no Ships are left, i.e., Singapore collapses.
 
 ## 1. Event phase
 
-Reveal the top card of the Event deck and place it on the Event space.
-- In the first round, reveal the Singapore Treaty and place it on the Treaty space.
-- **Immediate (⚡)️ Events** must be resolved before proceeding.
+In the first round, reveal the Singapore Treaty, place it on the Treaty space, and place two Ships on the Port track.
+<!-- - Roll one die (1D) and add that many Ships to the Port track. -->
+
+In succeeding rounds, reveal the top Event card and place it on the Event space. Resolve any instant effects before proceeding. See [Events](/1819rulebook/events).
+
+<!-- - If the Event is an **Immediate (⚡)️ Event** must be resolved before proceeding. -->
 
 ## 2. Income phase
 
@@ -39,7 +42,7 @@ Reveal the top card of the Event deck and place it on the Event space.
 
 ### b. Distribute Income
 - In the first round, hand each player $3.
-- In succeeding rounds, hand each player the amount specified by the highest Port space with a ship on it.
+- In succeeding rounds, hand each player the amount specified by the highest Port space with a Ship on it.
 
 ## 3. Action phase
 Play proceeds from the First Player. On your turn, do the following:
@@ -47,7 +50,7 @@ Play proceeds from the First Player. On your turn, do the following:
 ### a. Place Leader
 Place your mini-figure on an open Leader space. Take the indicated Leader Action, if desired. Leader Actions **may not** be taken later!
 
-### b. Take two Core Actions
+### b. Take two Actions and any Free Actions
 The Core Actions are:
 
 - **Buy** a Market or Battle card
@@ -57,9 +60,11 @@ The Core Actions are:
 - Issue a **Decree**
 - Declare **War** *(counts as two Actions)*
 
-The same Core Action may be taken twice.
+See [Actions](/1819rulebook/actions). 
 
-Actions are explained in detail in [the next section](/1819rulebook/actions).
+Other Actions may also become available to you as the game progresses. The same Action may be taken twice, unless otherwise specified.
+
+**Free Actions.** Free Actions may become available to you as the game progresses. Take 
 
 ![Leader space](/img/leader_space.jpg)
 

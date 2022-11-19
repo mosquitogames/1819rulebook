@@ -2,16 +2,28 @@
 layout: page
 title: Simulation Mode
 permalink: /simulation-mode
-nav_order: 6
+nav_order: 7
 ---
 
 # Simulation Mode
 
-## Setup Changes
-1. Remove Mythic cards from the Malay battle deck.
-2. Hand each Malay Chief two Role cards --- Colonial Ally and Resistance Leader --- face down.
-3. Hand each British Agent a Colonial Ruler Role card.
-4. Shuffle the Folk Hero deck and place it face down near the board.
+## Setup
+Follow [the usual setup](/1819rulebook/setup) until step H, then:
+
+### I. Battle cards
+Put away the Mythic Battle cards.
+
+Shuffle the remaining Malay Battle cards and place them face down on the appropriate space. Have each Malay Chief draw 1 card.
+
+Set aside the four ships from the British Battle deck. Shuffle the remaining cards. Have each British Agent draw 1 card. Shuffle the four ships back in, and place the British Battle cards face down on the appropriate space.
+
+### J. Role cards
+
+Hand each Malay Chief a set of Role cards --- a Colonial Ally card and a Resistance Leader card. Hand each British Agent a Colonial Ruler Role card for reference.
+
+### K. Folk Hero deck
+
+Shuffle the Folk Hero deck and place it face down near the board.
 
 ## Sequence of Play Changes
 1. When the Treaty of London is revealed, Malay players must simultaneously declare their alignment by turning one of their Role cards face up. Alignments may not be changed later.
