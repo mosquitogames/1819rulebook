@@ -16,11 +16,8 @@ nav_order: 2
 ## 1. Event phase
 
 In the first round, reveal the Singapore Treaty, place it on the Treaty space, and place two Ships on the Port track.
-<!-- - Roll one die (1D) and add that many Ships to the Port track. -->
 
 In succeeding rounds, reveal the top Event card and place it on the Event space. Resolve any instant effects before proceeding. See [Events](/1819rulebook/events).
-
-<!-- - If the Event is an **Immediate (⚡)️ Event** must be resolved before proceeding. -->
 
 ## 2. Income phase
 
@@ -30,11 +27,11 @@ In succeeding rounds, reveal the top Event card and place it on the Event space.
 
 ### b. Distribute Income
 - In the first round, hand each player $3.
-- In succeeding rounds, distribute resources as specified by the highest Port space occupied by a Ship.
+- In succeeding rounds, distribute resources as specified by the highest occupied Port space.
 
-<!-- hand each player the amount specified by the highest Port space with a Ship on it. -->
+![Income with cubes](/img/income_cubes.jpg)
 
-<!-- EXAMPLE HERE -->
+> *Example.* There are four Ships on the Port track. Hand each player $3, and place one Neutral token in each Storehouse.
 
 ## 3. Action phase
 Play proceeds clockwise from the First Player. On your turn, do the following:
@@ -60,7 +57,7 @@ Other Actions may become available to you as the game progresses. The same Actio
 
 ![Leader space](/img/leader_space.jpg)
 
-> *Example.* You are the <span style="color:blue"><strong>Blue</strong></span> player. For your two Core Actions this round, you Buy a Battle card and issue a Decree. Thanks to the Leader space you are on, you pay $1 in order to Populate as a third, free Action.
+> *Example.* You are the <span style="color:blue"><strong>Blue</strong></span> player. You can't afford a Battle card, so for your Leader Action, you place one token in your Storehouse. You then issue a Decree and go on a Raid. Your turn ends.
 
 <!-- *3-player game: the solo player takes 3 actions per turn.* -->
 
@@ -71,15 +68,18 @@ All players receive 1 VP per Tax token on the board.
 
 If Public Works \\(\leq\\) Tax, Upkeep is met! The player with the most Tax tokens on the track receives 1 additional VP per token. In case of a tie, all leading players receive the bonus.
 
-If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token of theirs. Each player who owns Public Work tokens in excess of the Tax tokens must pay **$1 \\(\times\\) Upkeep Multiplier per excess Public Work**, where the Upkeep Multiplier is the leftmost open value on the Multiplier track.
+If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token. Each player who owns Public Work tokens in excess of the Tax tokens must either **Fund** or **Close** their excess Public Works. See [Excess Public Works](/1819rulebook/important-concepts#excess-public-works).
 
-![Upkeep](/img/upkeep_example.jpg)
+![Upkeep](/img/upkeep_successful.jpg)
 
-> *Example.* There are 4 Tax tokens and 6 Public Works tokens, so Upkeep is failed. The <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Purple</strong></span> players each have an excess Public Work. They must each pay 1 token \\(\times\\) Upkeep Multiplier of 2 = $2.
-
-If you **cannot afford** to fund your excess Public Works, you must **Close** them. See [Closing Public Works](/1819rulebook/important-concepts#closing-public-works).
+> *Example.* There are 5 Tax tokens and 2 Public Works tokens, so Upkeep is met. The <span style="color:magenta"><strong>Purple</strong></span> player receives 1 VP. Both the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:red"><strong>Red</strong></span> players have the most Tax tokens. They each receive 2 tokens \\(\times\\) 2 VPs = 4 VPs.
 
 ### b. Remove Leaders from Leader spaces.
 
-### c. Flush the Market
+### c. If there are no Ships in the Port, turn the Dutch token face up.
+If a Ship enters the Port before the end of the next round, flip the Dutch token back over.
+
+If by the end of next round, the Dutch token is still face up,
+
+### d. Flush the Market
 Discard the rightmost Market card. Shift the other cards one space to the right, then draw the top card of the Market deck to fill the leftmost space.

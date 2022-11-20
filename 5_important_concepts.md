@@ -79,41 +79,45 @@ When Population is lost, remove cubes starting from the **right**. When a box is
 - You roll a 1. Both factions lose 2 Population cubes and close their second Districts.
 - The <span style="color:blue"><strong>Blue</strong></span> player's token is discarded.
 
-## Closing Public Works
+## Excess Public Works
+Each Public Work in excess of the Tax tokens must either be **Funded** or **Closed** by its owner.
 
-For each excess Public Works token you cannot afford to fund:
+### Funding a Public Work
+{: .no_toc }
 
-1. flip one Public Work in your tableau face down,
-2. remove the unfunded token from the Public Works track,
-3. discard any attached Population cards,
-4. remove the corresponding number of Population cubes from the board.
+To **Fund** a Public Work, pay **$1 \\(\times\\) Upkeep Multiplier**, where the Upkeep Multiplier is the leftmost open value on the Multiplier track.
 
-A face-down Public Work cannot be Activated. If the Public Work was part of a Community, the Community is divided. On your turn, you may Rebuild a Public Work by paying its price as a Free Action. 
+![Failed Upkeep](/img/upkeep_failed.jpg)
 
-When Public Works are unfunded, their physical structures --- while still standing --- have been shuttered, and the workers tending to its functions have left.
+> *Example.* There are 4 Tax tokens and 6 Public Works tokens, so Upkeep is failed. The <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Purple</strong></span> players each have 1 excess Public Work.  Both players decide to **Fund** their Public Works by paying $1 \\(\times\\) Upkeep Multiplier of 2 = $2.
 
-<!-- or Vices are outlawed -->
+### Closing a Public Work
+{: .no_toc }
 
-Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated Public Work tokens are removed. Any attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
+When Public Works are unfunded, their physical structures --- while still standing --- must be shuttered, and the workers tending to its functions must leave.
 
-<!-- Tax or -->
+To **Close** a Public Work:
+1. Flip any one Public Works card in your tableau face down.
+2. Remove the unfunded token from the Public Works track.
+3. Discard any attached Population cards.
+4. Remove the corresponding number of Population cubes from the board.
 
-Public Works cards may be **Rebuilt** (i.e., turned face-up) as a Free Action by paying their cost. Rebuilding restores Public Work tokens to the track. Rebuilding does **not** restore discarded Population, nor does it restore broken Community Connections.
+A face-down Public Work cannot be Activated. If the Public Work was part of a Community, the Community is divided.
 
-<!-- Vice cards may be "rebuilt" (i.e., turned face-up) -->
-<!-- Face-down cards may be "rebuilt" (i.e., turned face-up) as a Free Action by paying their cost. Rebuilding restores  -->
-<!-- Tax or  -->
-<!-- Public Work tokens.  -->
- <!-- to the appropriate tracks. -->
-<!-- Rebuilding does **not** restore discarded Population, nor does it rebuild a broken Community. -->
+### Rebuilding a Public Work
+{: .no_toc }
 
-![Flipping cards](/img/flipping_cards.jpg)
+On your turn, you may **Rebuild** a Public Work by paying its cost as a Free Action. Rebuilding restores Public Work tokens to the track. Rebuilding does **not** restore discarded Population, nor does it restore broken Community Connections.
+
+![Rebuilding](/img/flipping_cards.jpg)
 
 > *Example.* Your Tableau had one Community, consisting of G.D. Coleman, School, and Resident.
 - Dring Upkeep, you were unable to fund your School.
 - So you flip the card over and discard the Population card and player tokens.
 - You also remove one Public Work token from the track.
 - G.D. Coleman and Resident are now standalone cards.
+
+<!-- UPDATE IMAGES!! -->
 
 ## Moving Cards
 
