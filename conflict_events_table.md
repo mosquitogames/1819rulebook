@@ -7,4 +7,4 @@ nav_order: 9
 
 ## Conflict Events Table
 
-![Conflict Events Table]](/img/conflict_events_table.jpg)
+![Conflict Events Table](/img/conflict_events_table.jpg)
