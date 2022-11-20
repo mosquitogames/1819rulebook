@@ -8,26 +8,10 @@ nav_order: 2
 ## Game Flow
 
 1819 Singapore is played over a series of eight rounds or fewer. Each round has four phases:
-1. [Event phase](#1-event-phase)
-2. [Income phase](#2-income-phase)
-3. [Action phase](#3-action-phase)
-4. [Upkeep phase](#4-upkeep-phase)
-
-Players draw and collectively resolve an **Event** card;
-
-In the **Event** phase, players draw and collectively resolve an Event card. 
-
-In the **Income** phase, players receive income. In the **Action** phase, players take their Actions, going clockwise from the First Player. In the **Upkeep** phase, players collectively meet the cost of maintaining Singapore, and prepare for the next round.
-
-<!-- ---crises, global events, or shifting social mores that affect the rulers' status quo. -->
-
-## Endgame Conditions
-
-The game ends when, at the **end** of a round,
-
-- there are no Event cards left; or
-<!-- - all ships are on the Port track, i.e., Singapore prospers; or -->
-- no Ships are left, i.e., Singapore collapses.
+1. [Event phase](#1-event-phase) --- *face new crises and opportunities;*
+2. [Income phase](#2-income-phase) --- *receive royal income;*
+3. [Action phase](#3-action-phase) --- *take turns clockwise from the First Player;*
+4. [Upkeep](#4-upkeep-phase) --- *meet the cost of maintaining Singapore and prepare for the next round.*
 
 ## 1. Event phase
 

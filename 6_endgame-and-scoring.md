@@ -10,10 +10,9 @@ nav_order: 6
 The game ends when, at the **end** of a round,
 
 - there are no Event cards left; or
-<!-- - all ships are on the Port track, i.e., Singapore prospers; or -->
-- no Ships are left, i.e., Singapore collapses.
+- the Dutch token is face up, i.e., the Dutch invade a broken Singapore.
 
-<!-- > *Example.*  On his first action, the Sultan goes on a successful Raid, removing the last Ship from the Port track. But on his second action, the Sultan clears a District, adding one ship back. The game is not over yet! -->
+> *Example.* The Sultan goes on a successful Raid, removing the last Ship from the Port track. During Upkeep, the Dutch token is flipped face up. But in the next round, the Liberal Wave Event adds one Ship back, flipping the Dutch token face down again. The game is not over yet!
 
 ## Scoring
 Players now tally Victory Points:
