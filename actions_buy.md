@@ -2,7 +2,7 @@
 layout: page
 title: Buy
 permalink: /buy
-parent: Actions
+parent: Core Actions
 nav_order: 1
 ---
 1. TOC
@@ -26,16 +26,15 @@ Buy one available card from the Market, then:
 - **B. Instant effects.** These are resolved from top to bottom upon purchase of the card.
 > *Example.* Upon purchase of Police Force, add 2 Influence to the board, then add one Player token to the Public Works track.
 
-| Symbol | Meaning |
+| Symbol | Instant Effect |
 | :---: | :---: |
 | ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/1819rulebook/important-concepts#placing-influence). |
 | ![Move](/img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](/1819rulebook/important-concepts#moving-cards). |
 | ![Wealth](/img/icons/wealth.png) | Gain *x* amount of **Wealth**. |
 | ![Public Work](/img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Upkeep phase](/1819rulebook/sequence-of-play#4-upkeep-phase). |
 | ![Tax](/img/icons/tax.png) | **Tax** card: Add Player tokens to Tax track based on Tax Value. See [Upkeep phase](/1819rulebook/sequence-of-play#4-upkeep-phase). |
-<!--| ![Personality](/img/icons/personality.png) | **Personality** card: Nothing to resolve. |-->
-<!--| ![Commerce](/img/icons/commerce.png) | **Commerce** card: Nothing to resolve. |-->
 | ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Nothing to resolve. |
+| ![Wealth](/img/icons/wealth.png) | Special Action. |
 
 - **C. Population slots.** Cards with Population symbols can accommodate Population cards. Some Actions depend on the number of Population cards attached.
 
@@ -65,6 +64,9 @@ To make, break, or change connections after purchase, use [the Move action](/181
 ## Buy Battle Card
 
 Pay $2 to draw the top card from your faction's Battle deck. Keep Battle cards hidden in your hand. The card's **Strength** is indicated in bold.
+
+<!-- Anatomy of a battle card -->
+<!-- Reveal as a free action -->
 
 ![Battle cards](/img/battle__card_anatomy.jpg)
 

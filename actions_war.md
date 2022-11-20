@@ -2,7 +2,7 @@
 layout: page
 title: War
 permalink: /war
-parent: Actions
+parent: Core Actions
 nav_order: 6
 ---
 ## Declare War

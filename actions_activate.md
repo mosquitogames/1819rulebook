@@ -2,7 +2,7 @@
 layout: page
 title: Activate
 permalink: /activate
-parent: Actions
+parent: Core Actions
 nav_order: 3
 ---
 ## Activate

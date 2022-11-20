@@ -2,7 +2,7 @@
 layout: page
 title: Populate
 permalink: /populate
-parent: Actions
+parent: Core Actions
 nav_order: 2
 ---
 ## Populate

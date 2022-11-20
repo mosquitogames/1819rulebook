@@ -2,7 +2,7 @@
 layout: page
 title: Decree
 permalink: /decree
-parent: Actions
+parent: Core Actions
 nav_order: 5
 ---
 ## Decree

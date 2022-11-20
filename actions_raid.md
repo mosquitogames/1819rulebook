@@ -2,7 +2,7 @@
 layout: page
 title: Raid
 permalink: /raid
-parent: Actions
+parent: Core Actions
 nav_order: 4
 ---
 ## Raid

@@ -79,28 +79,33 @@ When Population is lost, remove cubes starting from the **right**. When a box is
 - You roll a 1. Both factions lose 2 Population cubes and close their second Districts.
 - The <span style="color:blue"><strong>Blue</strong></span> player's token is discarded.
 
-## Flipping Cards
+## Closing Public Works
 
-Vice cards
+For each excess Public Works token you cannot afford to fund:
 
+1. flip one Public Work in your tableau face down,
+2. remove the unfunded token from the Public Works track,
+3. discard any attached Population cards,
+4. remove the corresponding number of Population cubes from the board.
 
-When Public Works are unfunded
+A face-down Public Work cannot be Activated. If the Public Work was part of a Community, the Community is divided. On your turn, you may Rebuild a Public Work by paying its price as a Free Action. 
+
+When Public Works are unfunded, their physical structures --- while still standing --- have been shuttered, and the workers tending to its functions have left.
+
 <!-- or Vices are outlawed -->
-, their physical structures --- while still standing --- have been shuttered, and the workers tending to its functions have left.
 
-Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated 
+Thus, face-down cards remain in their places on tableaus, but cannot be Activated. All associated Public Work tokens are removed. Any attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
+
 <!-- Tax or -->
-Public Work tokens are removed. Any attached Population cards and corresponding cubes are discarded. If the card was part of a Community, the Community is divided.
 
-Public Works cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost.
+Public Works cards may be **Rebuilt** (i.e., turned face-up) as a Free Action by paying their cost. Rebuilding restores Public Work tokens to the track. Rebuilding does **not** restore discarded Population, nor does it restore broken Community Connections.
 
-Vice cards may be "rebuilt" (i.e., turned face-up)
-
-Face-down cards may be "rebuilt" (i.e., turned face-up) as a free Action by paying their cost. Rebuilding restores 
+<!-- Vice cards may be "rebuilt" (i.e., turned face-up) -->
+<!-- Face-down cards may be "rebuilt" (i.e., turned face-up) as a Free Action by paying their cost. Rebuilding restores  -->
 <!-- Tax or  -->
-Public Work tokens. 
+<!-- Public Work tokens.  -->
  <!-- to the appropriate tracks. -->
-Rebuilding does **not** restore discarded Population, nor does it rebuild a broken Community.
+<!-- Rebuilding does **not** restore discarded Population, nor does it rebuild a broken Community. -->
 
 ![Flipping cards](/img/flipping_cards.jpg)
 
