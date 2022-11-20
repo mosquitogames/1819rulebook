@@ -70,16 +70,16 @@ If Public Works \\(\leq\\) Tax, Upkeep is met! The player with the most Tax toke
 
 If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token. Each player who owns Public Work tokens in excess of the Tax tokens must either **Fund** or **Close** their excess Public Works. See [Excess Public Works](/1819rulebook/important-concepts#excess-public-works).
 
-![Upkeep](/img/upkeep_successful.jpg)
+![Successful Upkeep](/img/upkeep_successful.jpg)
 
 > *Example.* There are 5 Tax tokens and 2 Public Works tokens, so Upkeep is met. The <span style="color:magenta"><strong>Purple</strong></span> player receives 1 VP. Both the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:red"><strong>Red</strong></span> players have the most Tax tokens. They each receive 2 tokens \\(\times\\) 2 VPs = 4 VPs.
 
 ### b. Remove Leaders from Leader spaces.
 
 ### c. If there are no Ships in the Port, turn the Dutch token face up.
-If a Ship enters the Port before the end of the next round, flip the Dutch token back over.
-
-If by the end of next round, the Dutch token is still face up,
+- While the Dutch token is face up, ignore instructions to remove Ships.
+- When a Ship enters the Port, flip the Dutch token face down.
+- If by the end of next round, the Dutch token is still face up, the game ends.
 
 ### d. Flush the Market
 Discard the rightmost Market card. Shift the other cards one space to the right, then draw the top card of the Market deck to fill the leftmost space.
