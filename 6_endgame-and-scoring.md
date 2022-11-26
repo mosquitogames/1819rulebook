@@ -7,18 +7,17 @@ nav_order: 6
 
 ## Endgame conditions
 
-The game ends when, at the **end** of a round,
+The game ends when:
+- the Treaty of London is revealed, and there are **fewer than 3 Ships** in the Port; or
+- at the **end** of a round, there are no Event cards left.
 
-- there are no Event cards left; or
-- the Dutch token is face up, i.e., the Dutch invade a broken Singapore.
-
-> *Example.* The Sultan goes on a successful Raid, removing the last Ship from the Port track. During Upkeep, the Dutch token is flipped face up. But in the next round, the Liberal Wave Event adds one Ship back, flipping the Dutch token face down again. The game is not over yet!
+> *Example.* There are 3 Ships in the Port. The Temenggong goes on a Raid and removes a Ship. But then the Sultan reveals the Perahu battle card, adding one Ship back. After Upkeep and Cleanup, the Treaty of London is drawn. Phew --- the game is not over yet!
 
 ## Scoring
 Players now tally Victory Points:
 - already earned on the Victory Track;
 - from Legacies;
 - from End Game bonuses, if any;
-- from their Storehouse, split evenly between faction players (rounding down).
+- from their Storehouse, split evenly between players using that storehouse (rounding down).
 
 The player with the most Victory Points wins, securing their legacy as the "founder among founders" of Singapore.

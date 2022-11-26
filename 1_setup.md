@@ -36,27 +36,26 @@ Otherwise, have each player draw 3 Legacy tiles at random, keep 2, and discard t
 
 ### C. Player tokens
 
-Hand each player a set of colored tokens. Have each player place 1 token
-<!-- in their faction's Storehouse (blue for British Agents, green for Malay Chiefs), and 1 -->
- on the zero space of the Victory Point track.
+Hand each player a set of colored tokens. Have each player place 1 token on the zero space of the Victory Point track.
 
 On the board, player tokens represent Influence. Filling Districts with Influence earns you VPs. Spending Influence from your faction Storehouse lets you issue Decrees or declare War.
 
 Off the board, player tokens are also used as trackers for Legacies and the like.
 
+![First Player token](/img/fp_token.jpg)
+
+### D. First Player token
+
+Hand the player who rolls the highest the First Player token.
+
 ## Board Setup
 
-### D. Districts
+### E. Districts
 
 Cover the x2 and x3 Districts with the four black markers. These Districts are closed; they must be Populated before players can place Influence tokens on them.
 
 <!-- > *3-player game: the solo player only covers their x3 District.* -->
-
-### E. Port track
-
-Place the Dutch token face down on the leftmost space of the Port track.
-
-## Card Setup
+<!-- ## Card Setup -->
 
 ### F. Event cards
 
