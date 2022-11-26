@@ -11,21 +11,18 @@ nav_order: 2
 1. [Event phase](#1-event-phase) --- *face new crises and opportunities;*
 2. [Income phase](#2-income-phase) --- *receive royal income;*
 3. [Action phase](#3-action-phase) --- *take turns clockwise from the First Player;*
-4. [Upkeep](#4-upkeep-phase) --- *meet the cost of maintaining Singapore and prepare for the next round.*
+4. [Upkeep](#4-upkeep-phase) --- *meet the cost of maintaining Singapore;*
+5. [Cleanup](#5-cleanup-phase) --- *prepare for the next round.*
 
 ## 1. Event phase
 
-In the first round, reveal the Singapore Treaty, place it on the Treaty space, and place two Ships on the Port track.
+- In the first round, reveal the Singapore Treaty and place two Ships on the Port track.
+- In succeeding rounds, reveal the top Event card and resolve any instant effects before proceeding.
 
-In succeeding rounds, reveal the top Event card and place it on the Event space. Resolve any instant effects before proceeding. See [Events](/1819rulebook/events).
+See [Events](/1819rulebook/events).
 
 ## 2. Income phase
 
-### a. Assign First Player
-- In the first round, hand the player who rolls the highest the First Player token.
-- In succeeding rounds, pass the token to the next (clockwise) player.
-
-### b. Distribute Income
 - In the first round, hand each player $3.
 - In succeeding rounds, distribute resources as specified by the highest occupied Port space.
 
@@ -63,7 +60,6 @@ Other Actions may become available to you as the game progresses. The same Actio
 
 ## 4. Upkeep phase
 
-### a. Pay for Public Works
 All players receive 1 VP per Tax token on the board.
 
 If Public Works \\(\leq\\) Tax, Upkeep is met! The player with the most Tax tokens on the track receives 1 additional VP per token. In case of a tie, all leading players receive the bonus.
@@ -74,12 +70,11 @@ If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP p
 
 > *Example.* There are 5 Tax tokens and 2 Public Works tokens, so Upkeep is met. The <span style="color:magenta"><strong>Purple</strong></span> player receives 1 VP. Both the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:red"><strong>Red</strong></span> players have the most Tax tokens. They each receive 2 tokens \\(\times\\) 2 VPs = 4 VPs.
 
-### b. Remove Leaders from Leader spaces.
+## 5. Cleanup phase
+### a. Remove Leaders from Leader spaces.
 
-### c. If there are no Ships in the Port, turn the Dutch token face up.
-- While the Dutch token is face up, ignore instructions to remove Ships.
-- When a Ship enters the Port, flip the Dutch token face down.
-- If by the end of next round, the Dutch token is still face up, the game ends.
-
-### d. Flush the Market
+### b. Flush the Market
 Discard the rightmost Market card. Shift the other cards one space to the right, then draw the top card of the Market deck to fill the leftmost space.
+
+### c. Assign First Player
+Pass the token to the next (clockwise) player.
