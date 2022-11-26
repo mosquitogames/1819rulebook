@@ -27,7 +27,7 @@ The winner may **steal the loser's Wealth** and/or **gain Victory Points** up to
 ![Battle example.](/img/battle_example.jpg)
 
 > *Example.*
-The Resident *(British Agent)* attacks the Sultan *(Malay Chief)*. The Temenggong comes to the Sultan's aid.
+The Resident *(Agent)* attacks the Sultan *(Raja)*. The Temenggong comes to the Sultan's aid.
 - The Resident rolls a 3 and reveals HMS Andromache, for Total Strength of 10.
 - The Sultan rolls a 1 and reveals Perahu and Giant Kusu, for Total Strength of 9.
 - The Resident wins with Total Strength difference of \\(10 - 9 = 1\\).

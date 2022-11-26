@@ -18,7 +18,7 @@ Starting at any open District or Storehouse, place 1 Influence token per space, 
 - All other Districts are closed at the moment.
 - The British Storehouse has 4 Influence, while the Malay Storehouse has 3.
 
-> You are the <span style="color:magenta"><strong>Purple</strong></span> Malay Chief. You purchase History Tome.
+> You are the <span style="color:magenta"><strong>Purple</strong></span> Malay Raja. You purchase History Tome.
 
 ![Adding Influence](/img/districts_2.jpg)
 > History Tome instantly gives you 4 Influence:
@@ -32,7 +32,7 @@ Starting at any open District or Storehouse, place 1 Influence token per space, 
 
 When a District contains at least 5 Influence tokens at the end of an Influence placement, the District is immediately scored as follows:
 
-1. Check the District's color. British Agents only score VPs from blue Districts, while Malay Chiefs only score VPs from green Districts.
+1. Check the District's color. Agents only score VPs from blue Districts, while Rajas only score VPs from green Districts.
 2. If you are eligible, count how many of **your** tokens are on the District. Gain **(District Multiplier)** VPs per token.
 3. Clear the District of all tokens. Return tokens to players.
 4. If the District has a ship icon, add a Ship to the Port track.
@@ -40,7 +40,7 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 ![Scoring Districts](/img/districts_3.jpg)
 
 > *Example, continued.* After placing Influence from History Tome, the second green District now has 5 tokens.
-- The Malay Chief players --- here, the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Purple</strong></span> players --- are eligible to score.
+- The Malay Raja players --- here, the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Purple</strong></span> players --- are eligible to score.
 - The District multiplier is \\(\times 2\\), so the <span style="color:blue"><strong>Blue</strong></span> player gains 2 VPs, and the <span style="color:magenta"><strong>Purple</strong></span> player receives 6 VPs.
 - The Yellow player is British and receives nothing.
 

@@ -21,8 +21,8 @@ Buy one available card from the Market, then:
 
 ![Market cards](/img/market_card_anatomy.jpg)
 
-- **A. Price.** Some cards have distinct prices for British Agents (blue) and Malay Chiefs (green).
-> *Example.* Natural History Drawings and Police Force cost $3 for all players. Syed Omar Aljunied costs British Agents $4, but Malay Chiefs only $2.
+- **A. Price.** Some cards have distinct prices for British Agents (blue) and Malay Rajas (green).
+> *Example.* Natural History Drawings and Police Force cost $3 for all players. Syed Omar Aljunied costs Agents $4, but Rajas only $2.
 - **B. Instant effects.** These are resolved from top to bottom upon purchase of the card.
 > *Example.* Upon purchase of Police Force, add 2 Influence to the board, then add one Player token to the Public Works track.
 
@@ -70,4 +70,4 @@ Pay $2 to draw the top card from your faction's Battle deck. Keep Battle cards h
 
 ![Battle cards](/img/battle__card_anatomy.jpg)
 
-> *Example.* The battle decks are have differently-colored backs for the British Agents (blue) and Malay Chiefs (green). The British Regulars have a Strength of 2, while Buto Ijo has Strength of 8.
+> *Example.* The battle decks are have differently-colored backs for the British Agents (blue) and Malay Rajas (green). The British Regulars have a Strength of 2, while Buto Ijo has Strength of 8.
