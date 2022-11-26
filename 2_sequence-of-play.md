@@ -11,8 +11,8 @@ nav_order: 2
 1. [Event phase](#1-event-phase) --- *face new crises and opportunities;*
 2. [Income phase](#2-income-phase) --- *receive royal income;*
 3. [Action phase](#3-action-phase) --- *take turns clockwise from the First Player;*
-4. [Upkeep](#4-upkeep-phase) --- *meet the cost of maintaining Singapore;*
-5. [Cleanup](#5-cleanup-phase) --- *prepare for the next round.*
+4. [Upkeep phase](#4-upkeep-phase) --- *meet the cost of maintaining Singapore;*
+5. [Cleanup phase](#5-cleanup-phase) --- *prepare for the next round.*
 
 ## 1. Event phase
 
@@ -76,5 +76,5 @@ If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP p
 ### b. Flush the Market
 Discard the rightmost Market card. Shift the other cards one space to the right, then draw the top card of the Market deck to fill the leftmost space.
 
-### c. Assign First Player
+### c. Change First Player
 Pass the token to the next (clockwise) player.
