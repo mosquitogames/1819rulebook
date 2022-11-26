@@ -7,11 +7,11 @@ nav_order: 3
 ---
 ## Activate
 
-Activate 1 card or Community in your tableau. Take all Actions listed. **Each card or Community may only be Activated once per round.**
+Activate 1 card or Community in your Tableau. Take all Actions listed. **Each card or Community may only be Activated once per round.**
 
 ![Activate cards](/img/activate.jpg)
 
-> *Example.* In your tableau, you have 1 standalone card, Opium Tax Farm, and 1 Community, consisting of Sports Day, Temenggong, and Gutta Percha Plantation.
+> *Example.* In your Tableau, you have 1 standalone card, Opium Tax Farm, and 1 Community, consisting of Sports Day, Temenggong, and Gutta Percha Plantation.
 
 > For your first Action, you Activate the Community:
 - Sports Day lets you place 2 Influence tokens on Districts;

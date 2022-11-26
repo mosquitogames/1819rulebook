@@ -31,8 +31,10 @@ There are two British Agents, the **Lieutenant-Governor** and the **Resident**; 
 
 When the British Agents initially arrived in the Malayan Straits --- a corner of which is now known as *Singapura*, Singapore --- they were initially allied with the local Malay Rajas against their common rivals, the Dutch and the Bugis. This alliance was cemented by the Singapore Treaty of 1819. Thus, at the start of the game, **War** is rather costly.
 
-However, halfway through the game, the Treaty of London makes peace between the Dutch and the British Agents, who no longer need to appease the Malay Rajas. The Singapore Treaty is overruled, the Rajas lose their leverage, and the threat of War looms larger on the horizon...
+However, halfway through the game, the Anglo-Dutch Treaty makes peace between the Dutch and the British Agents, who no longer need to appease the Malay Rajas. The Singapore Treaty is overruled, the Rajas lose their leverage, and the threat of War looms larger on the horizon...
 
 The goal of the game --- to have the most VPs --- represents attaining the persistent historical status enjoyed by the real-life Lieutenant-Governor of Singapore, Stamford Raffles, who has roads, schools, and at least one hotel named after him.
 
 *1819* gives the other historical players a chance at the spotlight.
+
+## Two Modes

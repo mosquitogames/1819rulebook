@@ -18,7 +18,7 @@ The exception is **Slavery**, which costs 8 tokens to outlaw, and cannot be lega
 ### Outlaw
 When you outlaw a Vice:
 1. Place your Player token on the corresponding Vice space on the board.
-2. Flip over all such Vice cards in all players' tableaus.
+2. Flip over all such Vice cards in all players' Tableaus.
 3. Remove the corresponding tokens from the Tax track.
 4. Discard all such Vice cards, if any, from the Market.
 

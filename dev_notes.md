@@ -27,7 +27,5 @@ The game was primarily built for and tested on a 4-player setup. With some tweak
 ## Rulebook to-dos
 - List Leader Actions
 - Update images
-- Add Mythic icon explanation
 - Add Folk Hero examples
 - Bold all game words
-- Talk about Battle card passives

@@ -9,7 +9,7 @@ nav_order: 6
 
 <!-- *Declare War to corner your opponents and drain their resources.* -->
 
-Spend 7 tokens of any colour from your Storehouse to declare War on **one** player in the opponent faction. After the Treaty of London, the cost of War drops to 4 tokens.
+Spend 7 tokens of any colour from your Storehouse to declare War on **one** player in the opponent faction. After the Anglo-Dutch Treaty, the cost of War drops to 4 tokens.
 
 **War counts as 2 Actions.** It occurs in 4 stages:
 

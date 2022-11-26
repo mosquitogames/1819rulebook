@@ -8,12 +8,12 @@ nav_order: 1
 1. TOC
 {:toc}
 
-## Buy Market Card
+## Buy Market card
 
 Buy one available card from the Market, then:
 
 1. Resolve any instant effects;
-2. Add the card to your tableau, making at most one connection; then
+2. Add the card to your Tableau, making at most one connection; then
 3. Shift all face-up cards to the right, and draw the top card of the Market deck to fill the leftmost space.
 
 ## Anatomy of a Market card
@@ -29,12 +29,12 @@ Buy one available card from the Market, then:
 | Symbol | Instant Effect |
 | :---: | :---: |
 | ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/1819rulebook/important-concepts#placing-influence). |
-| ![Move](/img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](/1819rulebook/important-concepts#moving-cards). |
+| ![Move](/img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> Tableau. See [Moving cards](/1819rulebook/important-concepts#moving-cards). |
 | ![Wealth](/img/icons/wealth.png) | Gain *x* amount of **Wealth**. |
-| ![Public Work](/img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Upkeep phase](/1819rulebook/sequence-of-play#4-upkeep-phase). |
-| ![Tax](/img/icons/tax.png) | **Tax** card: Add Player tokens to Tax track based on Tax Value. See [Upkeep phase](/1819rulebook/sequence-of-play#4-upkeep-phase). |
+| ![Public Work](/img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Perform Upkeep](/1819rulebook/sequence-of-play#4-perform-upkeep). |
+| ![Tax](/img/icons/tax.png) | **Tax** card: Add Player tokens to Tax track based on Tax Value. See [Perform Upkeep](/1819rulebook/sequence-of-play#4-perform-upkeep). |
 | ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Nothing to resolve. |
-| ![Wealth](/img/icons/wealth.png) | Special Action. |
+| ![Special](/img/icons/special.png) | **Special Action** as described on card. |
 
 - **C. Population slots.** Cards with Population symbols can accommodate Population cards. Some Actions depend on the number of Population cards attached.
 
@@ -44,11 +44,11 @@ Buy one available card from the Market, then:
 
 ![Community](/img/community.jpg)
 
-Connections can be made between connectors with **opposite shapes** and **identical colors**. When you buy a Market card, make up to 1 valid connection.
+Connections can be made between Connectors with **opposite shapes** and **identical colors**. When you buy a Market card, make up to 1 valid connection.
 
 > *Example.* You have 4 cards in your Tableau:
 - Cathedral and Hajjah Fatimah are connected.
-- Alexander Guthrie and Sports Day *could have been* connected, using Guthrie's left connector.
+- Alexander Guthrie and Sports Day *could have been* connected, using Guthrie's left Connector.
 
 > You buy Gutta Percha Plantation.
 - It can connect with *either* Hajjah Fatimah or Alexander Guthrie.
@@ -56,18 +56,22 @@ Connections can be made between connectors with **opposite shapes** and **identi
 
 To make, break, or change connections after purchase, use [the Move action](/1819rulebook/important-concepts#moving-cards).
 
-- **E. Boosts, Actions and End Game bonuses.**
-    - Boosts are passives or special modifiers that take effect as soon as the card is bought --- even before instant effects are resolved.
-    - Actions are triggered whenever a card is Activated, and are described using the same iconography as Immediate Effects. See [Activate](/1819rulebook/activate).
-    - End Game bonuses provide additional ways to earn VPs at endgame.
-    
-## Buy Battle Card
+- **E. Actions, Boosts and End Game bonuses.**
+    - **Actions** are triggered whenever a card is Activated, and are described using the same iconography as Immediate Effects. See [Activate](/1819rulebook/activate).
+    - **Boosts** are passives or special modifiers that take effect as soon as the card is bought.
+    - **End Game bonuses** provide additional ways to earn VPs once the game ends.
 
-Pay $2 to draw the top card from your faction's Battle deck. Keep Battle cards hidden in your hand. The card's **Strength** is indicated in bold.
+## Buy Battle card
 
-<!-- Anatomy of a battle card -->
-<!-- Reveal as a free action -->
+Pay **$2** to draw the top card of your faction's Battle deck. Keep Battle cards hidden in your hand. 
 
-![Battle cards](/img/battle__card_anatomy.jpg)
+## Anatomy of a Battle card
+{: .no_toc }
+
+![Battle cards](/img/battle_card_anatomy.jpg)
+- **A. Card back.** British Battle cards have blue backs, while Malay Battle cards have green backs.
+- **B. Strength.**
+- **C. Mythic symbol.** Mythic Battle cards with this symbol can only be used in Fantasy Mode.
+- **D. Mythic symbol.** 
 
 > *Example.* The battle decks are have differently-colored backs for the British Agents (blue) and Malay Rajas (green). The British Regulars have a Strength of 2, while Buto Ijo has Strength of 8.
