@@ -36,6 +36,15 @@ Play proceeds clockwise from the First Player. On your turn, do the following:
 ### a. Place Leader
 Place your mini-figure on an open Leader space. Take the indicated Leader Action, if feasible and desired. Leader Actions **may not be taken later**!
 
+<!-- For your first game, place the corresponding mini-figures on their starting Leader spaces:
+
+| Mini-figure | Starting Leader space |
+| :---: | :---: |
+| Governor | Market |
+| Resident | Market |
+| Temenggong | Battle |
+| Sultan | Population | -->
+
 ### b. Take two Actions and any Free Actions
 The Core Actions are:
 

@@ -16,18 +16,10 @@ For Tabletopia setup, see [Tabletopia setup](#tabletopia-setup).
 
 ### A. Boards, Leader cards and mini-figures
 
-Hand each player a board and corresponding Leader card. For your first game, use the illustrated side of the player board and place the corresponding mini-figures on their starting Leader spaces:
+Hand each player a board and corresponding Leader card. For your first game, use the illustrated side of the player board.
 
 <!-- Players on the same faction sit beside each other. -->
-
-| Mini-figure | Starting Leader space |
-| :---: | :---: |
-| Governor | Market |
-| Resident | Market |
-| Temenggong | Battle |
-| Sultan | Population |
-
-Leader spaces give players Leader Actions that reflect their priorities for the round.
+<!-- Leader spaces give players Leader Actions that reflect their priorities for the round. -->
 
 <!-- ### B. Legacy and Attribute tiles -->
 <!-- Legacies are the achievements your character wants history to remember them for, while Attributes allow them to bend the rules *(ever so slightly)* in their favor. -->
