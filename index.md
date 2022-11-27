@@ -10,7 +10,7 @@ nav_order: 0
 A game for 4 players in 90 minutes.
 
 ## Introduction
-The year is 1819. **British Agents** have arrived on the shores of Singapore, pitting indigenous **Malay Rajas** against the might and industry of a rising colonial power.
+The year is 1819. **British Agents** have arrived on the shores of Singapore, bringing indigenous **Malay Rajas** face to face with the might and industry of a rising colonial power.
 
 Only one ruler's legacy will endure the centuries---but legacy means nothing if Singapore collapses. So the rulers must work together...for now.
 
