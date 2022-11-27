@@ -46,7 +46,7 @@ The Core Actions are:
 - Issue a **Decree**
 - Declare **War** *(counts as two Actions)*
 
-See [Core Actions](/1819rulebook/actions). 
+See [Core Actions](/actions). 
 
 Other Actions may become available to you as the game progresses. The same Action may be taken twice, unless otherwise specified.
 
@@ -64,7 +64,7 @@ All players receive 1 VP per Tax token of theirs on the board.
 
 If Public Works \\(\leq\\) Tax, Upkeep is met! The player with the most Tax tokens on the track receives 1 additional VP per token. In case of a tie, all leading players receive the bonus.
 
-If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token. Each player who owns Public Work tokens in excess of the Tax tokens must either **Fund** or **Close** their excess Public Works. See [Excess Public Works](/1819rulebook/important-concepts#excess-public-works).
+If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token. Each player who owns Public Work tokens in excess of the Tax tokens must either **Fund** or **Close** their excess Public Works. See [Excess Public Works](/important-concepts#excess-public-works).
 
 ![Successful Upkeep](/img/upkeep_successful.jpg)
 

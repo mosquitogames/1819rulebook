@@ -23,5 +23,5 @@ Draw the top card of the Population deck, then:
 
 | Symbol | Meaning |
 | :---: | :---: |
-| ![Populate](/img/icons/immigrants.png) | Add *n* **Population** cubes to Districts. See [Placing Population](/1819rulebook/important-concepts#placing-population). |
-| ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/1819rulebook/important-concepts#placing-influence). |
+| ![Populate](/img/icons/immigrants.png) | Add *n* **Population** cubes to Districts. See [Placing Population](/important-concepts#placing-population). |
+| ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/important-concepts#placing-influence). |

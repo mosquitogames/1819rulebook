@@ -4,10 +4,11 @@ title: Dev Notes
 permalink: /dev-notes
 nav_order: 10
 ---
+## Major additions planned
+{: .no_toc }
+
 1. TOC
 {:toc}
-
-## Major additions planned
 
 ### "Build-a-leader"
 In the game you played, the player boards come prebuilt with characters based on historical figures, and some adaptation of their real-life Legacies and Attributes. We plan to flesh out some system for players to pick and choose Legacies and Attributes to "build a leader" with a unique combination of philosophy, desired legacy, and special ability. 
@@ -19,10 +20,7 @@ We imagine double-sided player boards like the ones in *Ghost Stories*. The fron
 ### Player counts
 The game was primarily built for and tested on a 4-player setup. With some tweaks, we've seen the game work at 3 and even 2 players, though the tweaks haven't been tested extensively and have room for improvement.
 
-## Currently thinking about
+<!-- ## Currently thinking about
 - British twist in Simulation Mode.
 - Sustaining and boosting player interest in the final third -- keeping the game state flexible enough to change in the final third.
-- Sharpening Leader and card "personalities", and game balancing next.
-
-## Rulebook to-dos
-- Add Folk Hero examples
+- Sharpening Leader and card "personalities", and game balancing next. -->

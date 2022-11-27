@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Setup
 
-This setup is for Fantasy Mode. We recommend your first game be in Fantasy Mode. To set up Simulation Mode, follow steps A to G below, then carry out the modified steps [here](/1819rulebook/simulation-mode#setup-changes).
+This setup is for Fantasy Mode. We recommend your first game be in Fantasy Mode. To set up Simulation Mode, follow steps A to G below, then carry out the modified steps [here](/simulation-mode#setup-changes).
 
 ## Player Setup
 
