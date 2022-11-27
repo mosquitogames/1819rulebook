@@ -25,7 +25,7 @@ Discard all used Battle cards. **Remove a Ship from the Port.**
 
 The victor may **take the loser's Wealth** and/or **gain Victory Points** up to a maximum of **Total Strength difference \\(\times\\) Spoils of War Multiplier**.
 
-![Battle example.](/img/battle_example.jpg)
+![Battle example.](img/battle_example.jpg)
 
 > *Example.* The Resident attacks the Sultan. The Temenggong comes to the Sultan's aid.
 - The Temenggong already has a Giant Kusu face up. He commits this card to the War.

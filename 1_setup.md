@@ -12,7 +12,7 @@ For Tabletopia setup, see [Tabletopia setup](#tabletopia-setup).
 
 ## Player Setup
 
-![Main Board setup](/img/main_board_setup.jpg)
+![Main Board setup](img/main_board_setup.jpg)
 
 ### A. Boards, Leader cards and mini-figures
 
@@ -36,7 +36,7 @@ For your first game, use the Legacies and Attributes printed on the player board
 
 Otherwise, have each player draw 3 Legacy tiles at random, keep 2, and discard the other. Also have each player draw 1 Attribute tile at random. Put the rest of the tiles away. -->
 
-![Player Board setup](/img/player_board_setup.jpg)
+![Player Board setup](img/player_board_setup.jpg)
 
 ### B. Player tokens
 
@@ -46,7 +46,7 @@ On the board, player tokens represent Influence. Filling Districts with Influenc
 
 Off the board, player tokens are also used as trackers for Legacies and the like.
 
-![First Player token](/img/fp_token.jpg)
+![First Player token](img/fp_token.jpg)
 
 ### C. First Player token
 

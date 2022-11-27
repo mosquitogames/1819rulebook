@@ -11,7 +11,7 @@ Spend any 5 tokens from your Storehouse to **outlaw** or **legalize** a Vice. At
 
 The exception is **Slavery**, which costs 8 tokens to outlaw, and cannot be legalized thereafter.
 
-![Vice spaces](/img/vice_space.jpg)
+![Vice spaces](img/vice_space.jpg)
 
 > *Example.* Gambling and Opium are outlawed, while Slavery, Liquor, and Prostitution are legal.
 

@@ -13,7 +13,7 @@ Draw the top card of the Population deck, then:
 
 **If your Tableau has no vacant Population slots, you may not Populate!**
 
-![Population cards](/img/population_tableau.jpg)
+![Population cards](img/population_tableau.jpg)
 
 > *Example.* Your Tableau has 2 cards: the Sultan and the Newspaper.
 - The Teochews Population card occupies the Sultan's only Population slot.
@@ -23,5 +23,5 @@ Draw the top card of the Population deck, then:
 
 | Symbol | Meaning |
 | :---: | :---: |
-| ![Populate](/img/icons/immigrants.png) | Add *n* **Population** cubes to Districts. See [Placing Population](important-concepts#placing-population). |
-| ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](important-concepts#placing-influence). |
+| ![Populate](img/icons/immigrants.png) | Add *n* **Population** cubes to Districts. See [Placing Population](important-concepts#placing-population). |
+| ![Influence](img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](important-concepts#placing-influence). |

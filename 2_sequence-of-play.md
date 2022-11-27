@@ -52,7 +52,7 @@ Other Actions may become available to you as the game progresses. The same Actio
 
 **Free Actions.** Free Actions may become available to you as the game progresses. You may take Free Actions anytime after your Leader Action.
 
-![Leader space](/img/leader_space.jpg)
+![Leader space](img/leader_space.jpg)
 
 > *Example.* You are the <span style="color:blue"><strong>Blue</strong></span> player. You can't afford a Battle card, so for your Leader Action, you place one token in your Storehouse. For your first Action, you issue a Decree. For your second Action, you go on a Raid. Your turn ends.
 
@@ -66,7 +66,7 @@ If Public Works \\(\leq\\) Tax, Upkeep is met! The player with the most Tax toke
 
 If Public Works \\(\>\\) Tax, Upkeep is failed. All players still receive 1 VP per Tax token. Each player who owns Public Work tokens in excess of the Tax tokens must either **Fund** or **Close** their excess Public Works. See [Excess Public Works](important-concepts#excess-public-works).
 
-![Successful Upkeep](/img/upkeep_successful.jpg)
+![Successful Upkeep](img/upkeep_successful.jpg)
 
 > *Example.* There are 5 Tax tokens and 2 Public Works tokens, so Upkeep is met. The <span style="color:magenta"><strong>Pink</strong></span> player receives 1 VP. Both the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:red"><strong>Red</strong></span> players have the most Tax tokens. They each receive 2 tokens \\(\times\\) 2 VPs = 4 VPs.
 
