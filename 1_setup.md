@@ -8,6 +8,8 @@ nav_order: 1
 
 This setup is for Fantasy Mode. We recommend your first game be in Fantasy Mode. To set up Simulation Mode, follow steps A to G below, then carry out the modified steps [here](simulation-mode#setup-changes).
 
+For Tabletopia setup, see [Tabletopia setup](#tabletopia-setup).
+
 ## Player Setup
 
 ![Main Board setup](/img/main_board_setup.jpg)
@@ -93,3 +95,11 @@ Shuffle each faction's Battle deck and place them face down on the appropriate s
  -->
 
 ## Setup is complete!
+
+### Tabletopia setup
+On Tabletopia, most setup is done for you. For Fantasy Mode:
+- determine the First Player and hand them the token;
+- draw Battle cards; and
+- stack the Event cards.
+
+On your first round, Event and Income have been settled for you. Proceed to [Take Player turns](sequence-of-play#3-take-player-turns).

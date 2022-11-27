@@ -12,7 +12,7 @@ nav_order: 7
 {:toc}
 
 ## Setup
-Follow [the usual setup]setup) until step H, then:
+Follow [the usual setup](setup) until step H, then:
 
 ### H. Battle cards
 {: .no_toc }
@@ -29,6 +29,14 @@ Hand each Raja a set of Role cards --- a Colonial Ally card and a Resistance Lea
 ### J. Folk Hero deck
 {: .no_toc }
 Shuffle the Folk Hero deck and place it face down near the board.
+
+### Tabletopia setup
+On Tabletopia, most setup is done for you. For Simulation Mode:
+- determine the First Player and hand them the token;
+- draw Battle cards, then place the British ships back in the Battle deck; and
+- stack the Event cards.
+
+On your first round, Event and Income have been settled for you. Proceed to [Take Player turns](sequence-of-play#3-take-player-turns).
 
 ## Declaring Roles
 When the Anglo-Dutch Treaty is revealed, Rajas must choose whether to become a Colonial Ally or a Resistance Leader for the remainder of the game.
@@ -49,10 +57,10 @@ Rajas must declare their allegiance by revealing one of the two Role cards, afte
 
 ### Resistance Leader
 1. **New Action**: Spend 4 tokens from your Storehouse to draw a **Folk Hero** card.
-2. Wars against **Agents**:
+2. Wars against **at least one Agent**:
     - Victory: +5 to Spoils of War Multiplier.
     - Loss: draw a **Folk Hero card** (draw two if outnumbered by opponents).
-4. Wars against **Colonial Allies**: -1 to Spoils of War Multiplier.
+4. Wars against only **Colonial Allies**: -1 to Spoils of War Multiplier.
 5. If you are the **only** Resistance Leader, add one additional token every time you place tokens in your Storehouse.
 
 > *Example.* The Sultan is a Resistance Leader. He declares War on the Resident and is victorious by a margin of 2. The Multiplier is at \\(\times 2\\). The Sultan therefore claims \\(2 \times (2 + 5) = 14\\) VPs.
@@ -64,6 +72,6 @@ The Agents play by modified rules fitting for their new role:
 {: .no_toc }
 1. Wars against **Colonial Allies**: -2 to Spoils of War Multiplier.
 2. Wars against **Resistance Leaders**:
-    - Victory: no modifier to Multiplier. (Resistance Leaders draw Folk Hero cards!)
+    - Victory: no modifier to Multiplier. *(Resistance Leaders draw Folk Hero cards if they lose!)*
     - Loss: immediately Buy a Battle card, if you can afford it.
 3. If all Agents agree, you may veto **Colonial Allies'** use of the British Storehouse.

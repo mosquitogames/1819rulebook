@@ -26,7 +26,7 @@ See [Events](events).
 - In the first round, hand each player $3.
 - In succeeding rounds, distribute Income and tokens as specified by the highest occupied Port space.
 
-![Income with cubes](/img/income_cubes.jpg)
+![Income with cubes](img/income_cubes.jpg)
 
 > *Example.* There are four Ships on the Port track. Hand each player $3, and place one Neutral token in each Storehouse.
 
