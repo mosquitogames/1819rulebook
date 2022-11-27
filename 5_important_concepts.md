@@ -118,8 +118,8 @@ A face-down Public Work cannot be Activated. If the Public Work was part of a Co
 {: .no_toc }
 
 On your turn, you may **Rebuild** a Public Work by paying its cost as a Free Action. 
-- Rebuilding restores Public Work tokens to the track and repairs broken Community connections.
-- However, Rebuilding does **not** restore discarded Population.
+- Rebuilding restores discarded **Public Work tokens** and repairs broken **Community connections**.
+- However, Rebuilding does **not** restore lost Population.
 
 ## Moving cards
 

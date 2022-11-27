@@ -19,7 +19,7 @@ nav_order: 2
 - In the first round, reveal the Singapore Treaty and place two Ships on the Port track.
 - In succeeding rounds, reveal the top Event card and resolve any instant effects before proceeding.
 
-See [Events](/1819rulebook/events).
+See [Events](/events).
 
 ## 2. Distribute Income
 
