@@ -5,6 +5,8 @@ timezone: "Asia/Singapore"
 title: "1819 Rulebook"
 email: "info@mosquito.games"
 description: "Rulebook for 1819 Singapore"
+baseurl: "/1819rulebook"
+url: "https://mosquito.games"
 
 remote_theme: just-the-docs/just-the-docs
 
