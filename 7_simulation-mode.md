@@ -40,11 +40,12 @@ Rajas must declare their allegiance by revealing one of the two Role cards, afte
 
 ### Colonial Ally
 1. Gain **+$2 more Income**.
+    - *Place your Player token on the Port track as a reminder.*
 2. You may purchase dual-cost Market cards at their British cost +$1.
-3. Your Influence tokens in **British Districts** now generate VPs.
+3. Your Influence tokens now generate VPs in **all Districts**.
 4. You may no longer **Declare** or **Join** Wars.
 5. You may now **only** access the **British Storehouse**.
-    - However, if all Agents agree, they may veto your use of the British Storehouse.
+    - If all Agents agree, they may veto your use of the British Storehouse.
 
 ### Resistance Leader
 1. **New Action**: Spend 4 tokens from your Storehouse to draw a **Folk Hero** card.
@@ -63,6 +64,6 @@ The Agents play by modified rules fitting for their new role:
 {: .no_toc }
 1. Wars against **Colonial Allies**: -2 to Spoils of War Multiplier.
 2. Wars against **Resistance Leaders**:
-    - Victory: no modifier to Multiplier. Resistance Leaders draw Folk Hero cards.
+    - Victory: no modifier to Multiplier. (Resistance Leaders draw Folk Hero cards!)
     - Loss: immediately Buy a Battle card, if you can afford it.
 3. If all Agents agree, you may veto **Colonial Allies'** use of the British Storehouse.
