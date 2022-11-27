@@ -12,7 +12,7 @@ nav_order: 7
 {:toc}
 
 ## Setup
-Follow [the usual setup](/setup) until step H, then:
+Follow [the usual setup]setup) until step H, then:
 
 ### H. Battle cards
 {: .no_toc }
