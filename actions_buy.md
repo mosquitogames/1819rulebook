@@ -26,14 +26,13 @@ Buy one available card from the Market, then:
 - **B. Instant effects.** These are resolved from top to bottom upon purchase of the card.
 > *Example.* Upon purchase of Police Force, add 2 Influence to the board, then add one Player token to the Public Works track.
 
-| Symbol | Instant Effect |
+| Symbol | Meaning |
 | :---: | :---: |
 | ![Influence](/img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](/1819rulebook/important-concepts#placing-influence). |
 | ![Move](/img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> Tableau. See [Moving cards](/1819rulebook/important-concepts#moving-cards). |
 | ![Wealth](/img/icons/wealth.png) | Gain *x* amount of **Wealth**. |
 | ![Public Work](/img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Perform Upkeep](/1819rulebook/sequence-of-play#4-perform-upkeep). |
 | ![Tax](/img/icons/tax.png) | **Tax** card: Add Player tokens to Tax track based on Tax Value. See [Perform Upkeep](/1819rulebook/sequence-of-play#4-perform-upkeep). |
-| ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Nothing to resolve. |
 | ![Special](/img/icons/special.png) | **Special Action** as described on card. |
 
 - **C. Population slots.** Cards with Population symbols can accommodate Population cards. Some Actions depend on the number of Population cards attached.
@@ -61,6 +60,14 @@ To make, break, or change connections after purchase, use [the Move action](/181
     - **Boosts** are passives or special modifiers that take effect as soon as the card is bought.
     - **End Game bonuses** provide additional ways to earn VPs once the game ends.
 
+![Vice and Slavery](/img/vice_slavery.jpg)
+- **F. Skull icons.** Market cards with skull icons are Vice or Slavery cards, and can be outlawed by Decrees.
+
+| Symbol | Meaning |
+| :---: | :---: |
+| ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Can be outlawed. See [Decree](/1819rulebook/decree).  |
+
+
 ## Buy Battle card
 
 Pay **$2** to draw the top card of your faction's Battle deck. Keep Battle cards hidden in your hand. 
@@ -70,8 +77,6 @@ Pay **$2** to draw the top card of your faction's Battle deck. Keep Battle cards
 
 ![Battle cards](/img/battle_card_anatomy.jpg)
 - **A. Card back.** British Battle cards have blue backs, while Malay Battle cards have green backs.
-- **B. Strength.**
+- **B. Strength.** Card strengths range from 0 to 9.
 - **C. Mythic symbol.** Mythic Battle cards with this symbol can only be used in Fantasy Mode.
-- **D. Mythic symbol.** 
-
-> *Example.* The battle decks are have differently-colored backs for the British Agents (blue) and Malay Rajas (green). The British Regulars have a Strength of 2, while Buto Ijo has Strength of 8.
+- **D. Reveal Boost.** As a Free Action, reveal your Battle card and add it to your tableau. The Reveal Boost remains in effect so long as the Battle card is in your tableau.

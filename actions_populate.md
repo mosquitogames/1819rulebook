@@ -15,9 +15,9 @@ Draw the top card of the Population deck, then:
 
 ![Population cards](/img/population_tableau.jpg)
 
-> *Example.* Your Tableau has 2 cards: the Temenggong and the Opium Tax Farm.
-- The Teochews Population card occupies the Temenggong's only Population slot.
-- Opium Tax Farm has one free slot, allowing you to Populate it with the Javanese.
+> *Example.* Your Tableau has 2 cards: the Sultan and the Newspaper.
+- The Teochews Population card occupies the Sultan's only Population slot.
+- Newspaper has one free slot, allowing you to Populate it with the Javanese.
 
 ## Instant effects
 

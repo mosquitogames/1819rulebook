@@ -14,8 +14,8 @@ nav_order: 8
 | ![Wealth](/img/icons/wealth.png) | Gain *x* amount of **Wealth**. |
 | ![Public Work](/img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Perform Upkeep](/1819rulebook/sequence-of-play#4-perform-upkeep). |
 | ![Tax](/img/icons/tax.png) | **Tax** card: Add Player tokens to Tax track based on Tax Value. See [Perform Upkeep](/1819rulebook/sequence-of-play#4-perform-upkeep). |
-| ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Nothing to resolve. |
 | ![Special](/img/icons/special.png) | **Special Action** as described on card. |
+| ![Vice and Slavery](/img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Can be outlawed. See [Decree](/1819rulebook/decree).  |
 | ![Instant](/img/icons/immediate_event.png) | Resolve the text highlighted in white. |
 | ![Conflict](/img/icons/conflict_event.png) | Resolve the <span style="color:red"><strong>Conflict</strong></span>. See [Conflict Events Table](/1819rulebook/conflict-events-table). |
 | ![Ship](/img/icons/add_ship.png) | Add or remove **Ships** from Port track. |

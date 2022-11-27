@@ -25,7 +25,4 @@ The game was primarily built for and tested on a 4-player setup. With some tweak
 - Sharpening Leader and card "personalities", and game balancing next.
 
 ## Rulebook to-dos
-- List Leader Actions
-- Update images
 - Add Folk Hero examples
-- Bold all game words

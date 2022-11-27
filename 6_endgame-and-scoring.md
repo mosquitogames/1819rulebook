@@ -16,8 +16,7 @@ The game ends when:
 ## Scoring
 Players now tally Victory Points:
 - already earned on the Victory Track;
-- from Legacies;
-- from End Game bonuses, if any;
-- from their Storehouse, split evenly between players using that storehouse (rounding down).
+- from Legacies; and
+- from End Game bonuses, if any.
 
 The player with the most Victory Points wins, securing their legacy as the "founder among founders" of Singapore. 

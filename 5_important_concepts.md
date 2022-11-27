@@ -4,28 +4,37 @@ title: Important Concepts
 permalink: /important-concepts
 nav_order: 5
 ---
+# Important Concepts
+{: .no_toc }
+
+Read these rules as needed during the game.
+
 1. TOC
 {:toc}
 
 ## Placing Influence
 
-Starting at any open District or Storehouse, place 1 Influence token per space, going in the direction of the arrows. When you pass by a Storehouse, you may (but need not) place 1 Influence on it.
+Starting at any open District or Storehouse, place 1 Influence token per space, going in the direction of the arrows. When you pass by **either** Storehouse, you may (but need not) place 1 Influence on it.
 
 ![Starting districts](/img/districts_1.jpg)
 
 > *Example.* On the board above,
 - 2 green Districts and 1 blue District are open.
 - All other Districts are closed at the moment.
-- The British Storehouse has 4 Influence, while the Malay Storehouse has 3.
+- The blue Storehouse has 4 Influence, while the green Storehouse has 3.
 
-> You are the <span style="color:magenta"><strong>Pink</strong></span> Malay Raja. You purchase History Tome.
+![Multiple Influence Placements](/img/multiple_influence.jpg)
+
+>  You are the <span style="color:magenta"><strong>Pink</strong></span> Malay Raja. You Activate the above Community for a total of 4 Influence: 2 from Naraina Pillai and 2 from Courthouse.
 
 ![Adding Influence](/img/districts_2.jpg)
-> History Tome instantly gives you 4 Influence:
-- You decide to place the 1st token on the first green District.
+> You must now place 4 Influence tokens.
+- You choose to place the 1st token on the first green District.
 - Following the arrows, you place the 2nd token on the second green District.
 - You opt to place the 3rd token in your own Storehouse.
 - Finally, you must place the 4th token in the open blue District.
+
+Remember: when Activating a Community, **sum up all Influence gained** before placing on the board!
 
 ### Scoring Districts
 {: .no_toc }
@@ -39,17 +48,10 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 
 ![Scoring Districts](/img/districts_3.jpg)
 
-> *Example, continued.* After placing Influence from History Tome, the second green District now has 5 tokens.
-- The Malay Raja players --- here, the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Pink</strong></span> players --- are eligible to score.
+> *Example, continued.* After placing Influence, the second green District now has 5 tokens.
+- The Rajas --- here, the <span style="color:blue"><strong>Blue</strong></span> and <span style="color:magenta"><strong>Pink</strong></span> players --- are eligible to score.
 - The District multiplier is \\(\times 2\\), so the <span style="color:blue"><strong>Blue</strong></span> player gains 2 VPs, and the <span style="color:magenta"><strong>Pink</strong></span> player receives 6 VPs.
-- The Yellow player is British and receives nothing.
-
-### Clarifications
-{: .no_toc }
-
-- When placing Influence multiple times on the same Action --- e.g., when Activating a Community where multiple cards yield Influence --- you must first add up 
-
-<!-- score and clear Districts **immediately** after each placement. -->
+- The Yellow player is an Agent and receives nothing.
 
 ## Placing Population
 
@@ -71,13 +73,13 @@ Populate your faction's Districts by placing Population cubes in the **leftmost*
 ### Losing Population
 {: .no_toc }
 
-When Population is lost, remove cubes starting from the **right**. When a box is no longer filled, the District above it closes: move the black marker back from the Multiplier track, and discard any Influence tokens on the District.
+When Population is lost, remove cubes starting from the **right**. When a box is no longer filled, the District above it closes. Move the black marker back from the Multiplier track, and discard any Influence tokens on the District.
 
-![Losing Population](/img/population_3.jpg)
+<!-- ![Losing Population](/img/population_3.jpg)
 
 > *Example, continued.* A new round begins. The Minor Economic Recession Event appears, causing each faction to lose (2 \\(\times\\) die roll) Population cubes.
 - You roll a 1. Both factions lose 2 Population cubes and close their second Districts.
-- The <span style="color:blue"><strong>Blue</strong></span> player's token is discarded.
+- The <span style="color:blue"><strong>Blue</strong></span> player's token is discarded. -->
 
 ## Excess Public Works
 Each Public Work in excess of the Tax tokens must either be **Funded** or **Closed** by its owner.
@@ -104,29 +106,31 @@ To **Close** a Public Work:
 
 A face-down Public Work cannot be Activated. If the Public Work was part of a Community, the Community is divided.
 
-### Rebuilding a Public Work
-{: .no_toc }
-
-On your turn, you may **Rebuild** a Public Work by paying its cost as a Free Action. Rebuilding restores Public Work tokens to the track. Rebuilding does **not** restore discarded Population, nor does it restore broken Community connections.
-
-![Rebuilding](/img/flipping_cards.jpg)
+![Closing](/img/closing.jpg)
 
 > *Example.* Your Tableau had one Community, consisting of G.D. Coleman, School, and Resident.
-- Dring Upkeep, you were unable to fund your School.
+- During Upkeep, you were unable to fund your School.
 - So you flip the card over and discard the Population card and player tokens.
 - You also remove one Public Work token from the track.
 - G.D. Coleman and Resident are now standalone cards.
 
+### Rebuilding a Public Work
+{: .no_toc }
+
+On your turn, you may **Rebuild** a Public Work by paying its cost as a Free Action. 
+- Rebuilding restores Public Work tokens to the track and repairs broken Community connections.
+- However, Rebuilding does **not** restore discarded Population.
+
 ## Moving cards
 
-You can move **standalone cards** and **cards at the edges of Communities**. Population cards only move with the card they are attached to. With 1 move, you can:
+You can move **standalone cards** and **cards at the edges of Communities**. Population cards only move with the card they are attached to. With **one move**, you can:
 - Connect a standalone card to a Community.
 - Separate a card from a Community.
 - Separate a card from one Community and connect it to another.
 
 Cards cannot move between players' Tableaus. One move must be completed before the next one can begin. You may make fewer moves than specified, or opt not to move any card.
 
-![Move card](/img/move_1.jpg)
+![Move card](/img/move.jpg)
 
 > *Example.* You have a Community of three cards and one standalone card in your Tableau. You may move any card except School. With 1 move, you can:
 - Connect Sports Day (together with Orang Laut) to G.D. Coleman; or
@@ -141,11 +145,11 @@ Cards cannot move between players' Tableaus. One move must be completed before t
 - Commerce cards are Market cards with **two red hollow** Connectors.
 
 > *Example.* 
-> - Lieutenant-Governor and Daeng Ibrahim are Personality cards.
-> - Land Holdings is a Commerce card.
-> - The following are not Commerce cards: Daeng Ibrahim (Connectors not hollow), Police Force (Connectors not red), and Godowns (only one Connector).
+- Lieutenant-Governor and Daeng Ibrahim are Personality cards.
+- Land Holdings is a Commerce card.
+- The following are not Commerce cards: Daeng Ibrahim (Connectors not hollow), Police Force (Connectors not red), and Godowns (only one Connector).
 
 ## Resources
 - If Market and Population decks run out, they remain empty.
 - If Battle decks run out, shuffle discarded Battle cards and create a new deck.
-, Population, and Battle decks are finite. Player tokens, population cubes, and money are not. Should the game run out of the latter, use suitable replacements.
+- If Player tokens, Population cubes, or money run out, use suitable replacements.
