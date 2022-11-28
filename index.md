@@ -10,9 +10,11 @@ nav_order: 0
 A game for 4 players in 90 minutes.
 
 ## Introduction
-The year is 1819. **British Agents** of the East India Company have arrived on the shores of Singapore to seek out the **Malay Rajas**.
+The year is 1819. **British Agents** of the East India Company have arrived on the shores of Singapore to seek out the **Malay Rajas** and establish a new port.
 
-As they work together to build Singapore, each one seeks their own advantage---but from collusion and competition, there will emerge only one whose name will shine brightest in the annals of history...
+Each one seeks their own advantage and dreams in the rise of the new settlement--- but from collusion and competition, there will emerge only one whose name will shine brightest in the annals of history...
+
+<!-- Each one seeks to cement their legacy in the rise of the new settlement---but from collusion and competition, there will emerge only one whose name will shine brightest in the annals of history... -->
 
 ## Goal
 
@@ -20,7 +22,7 @@ The player with the most **Victory Points** (VPs) at the end of the game wins. P
 
 - Influencing **Districts**;
 - Winning **Wars**;
-- Collecting **Taxes**; and
+- Funding Public Works through **Taxes**; and
 - Fulfilling **Legacies**.
 
 ## Characters
