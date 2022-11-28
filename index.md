@@ -9,6 +9,9 @@ nav_order: 0
 
 A game for 4 players in 90 minutes.
 
+## Play online!
+[Fantasy Mode](https://tabletopia.com/games/1819-sg-kt8mrj/play-now) | [Simulation Mode](https://tabletopia.com/games/1819-sg-yd56mz/play-now)
+
 ## Introduction
 The year is 1819. **British Agents** of the East India Company have arrived on the shores of Singapore to seek out the **Malay Rajas** and establish a new port.
 
