@@ -77,6 +77,6 @@ The Agents play by modified rules fitting for their new role:
 {: .no_toc }
 1. Wars against **Colonial Allies**: -2 to Spoils of War Multiplier.
 2. Wars against **Resistance Leaders**:
-    - Victory: no modifier. *Resistance Leaders draw Folk Hero cards if they lose to Agents!*
+    - Victory: no modifier (use the standard Spoils of War Multiplier).
     - Loss: immediately Buy a Battle card, if you can afford it.
 3. If all Agents agree, you may veto **Colonial Allies'** use of the British Storehouse.
