@@ -88,6 +88,8 @@ Shuffle each faction's Battle deck and place them face down on the appropriate s
 
 ## Setup is complete!
 
+***
+
 ### Tabletopia setup
 On Tabletopia, most setup is done for you. For Fantasy Mode:
 - determine the First Player and hand them the token;
