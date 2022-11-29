@@ -18,7 +18,7 @@ Read these rules as needed during the game.
 
 Across card types, icons in the top right corner are **instant effects** that must be resolved from top to bottom, immediately upon reveal.
 
-See [Icons Reference List](icons-reference-list).
+See [Icons Reference List](icons).
 
 ## Placing Influence
 
