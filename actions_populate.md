@@ -8,7 +8,7 @@ nav_order: 2
 ## Populate
 
 Draw the top card of the Population deck, then:
-1. Resolve any instant effects;
+1. Resolve any [instant effects](important-concepts#instant-effects);
 2. Place the card in a vacant Population slot in your Tableau.
 
 **If your Tableau has no vacant Population slots, you may not Populate!**

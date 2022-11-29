@@ -12,6 +12,14 @@ Read these rules as needed during the game.
 1. TOC
 {:toc}
 
+## Instant effects
+
+![Instant effects](img/instant_effects.jpg)
+
+Across card types, icons in the top right corner are **instant effects** that must be resolved from top to bottom, immediately upon reveal.
+
+See [Icons Reference List](icons-reference-list).
+
 ## Placing Influence
 
 Starting at any open District or Storehouse, place 1 Influence token per space, going in the direction of the arrows. When you pass by **either** Storehouse, you may (but need not) place 1 Influence on it.

@@ -12,7 +12,7 @@ nav_order: 1
 
 Buy one available card from the Market, then:
 
-1. Resolve any instant effects;
+1. Resolve any [instant effects](important-concepts#instant-effects);
 2. Add the card to your Tableau, making at most one connection; then
 3. Shift all face-up cards to the right, and draw the top card of the Market deck to fill the leftmost space.
 

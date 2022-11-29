@@ -17,7 +17,7 @@ nav_order: 2
 ## 1. Draw new Event card
 
 - In the first round, reveal the Singapore Treaty and place two Ships on the Port track.
-- In succeeding rounds, reveal the top Event card and resolve any instant effects before proceeding.
+- In succeeding rounds, reveal the top Event card and resolve any [instant effects](important-concepts#instant-effects) before proceeding. 
 
 See [Events](events).
 
