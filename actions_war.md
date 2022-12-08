@@ -21,7 +21,7 @@ After the Anglo-Dutch Treaty, the cost of War drops to 4 tokens.
 
 ## The Aftermath
 
-Discard all used Battle cards. **Remove a Ship from the Port.**
+Discard all used Battle cards. **Remove $1D Ship(s) from the Port.**
 
 The victor may **take the loser's Wealth** and/or **gain Victory Points** up to a maximum of **Total Strength difference \\(\times\\) Spoils of War Multiplier**.
 
