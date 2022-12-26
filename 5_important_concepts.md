@@ -131,10 +131,12 @@ On your turn, you may **Rebuild** a Public Work by paying its cost as a Free Act
 
 ## Moving cards
 
-You can move **standalone cards** and **cards at the edges of Communities**. Population cards only move with the card they are attached to. With **one move**, you can:
+You can move **standalone cards** and **cards at the edges of Communities**. With **one move**, you can:
 - Connect a standalone card to a Community.
 - Separate a card from a Community.
 - Separate a card from one Community and connect it to another.
+
+Population cards move with the card they are attached to. Alternatively, you can also move **Population cards** themselves to any card with sufficient Population slots.
 
 Cards cannot move between players' Tableaus. One move must be completed before the next one can begin. You may make fewer moves than specified, or opt not to move any card.
 
@@ -143,7 +145,8 @@ Cards cannot move between players' Tableaus. One move must be completed before t
 > *Example.* You have a Community of three cards and one standalone card in your Tableau. You may move any card except School. With 1 move, you can:
 - Connect Sports Day (together with Orang Laut) to G.D. Coleman; or
 - Separate the Resident from School; or
-- Separate the Resident from School and connect him to Sports Day.
+- Separate the Resident from School and connect him to Sports Day; or
+- Move Orang Laut from Sports Day to Resident.
 
 ## Personality and Commerce cards
 
