@@ -50,6 +50,8 @@ Hand the player who rolls the highest the First Player token.
 
 Cover the x2 and x3 Districts with the four black markers. These Districts are closed; they must be Populated before players can place Influence tokens on them.
 
+<!-- Cover the Leader space marked with &#9733;&#9733; with the corresponding black marker. This Leader space is closed; eleven Ships must enter the Port before it opens. -->
+
 <!-- > *3-player game: the solo player only covers their x3 District.* -->
 <!-- ## Card Setup -->
 
@@ -57,10 +59,10 @@ Cover the x2 and x3 Districts with the four black markers. These Districts are c
 
 Separate the Event cards by their backs: Event I, Event II, and the Treaties.
 
-- Shuffle the Event II cards, then deal 3 face down onto the Event deck space.
-- Place the Anglo-Dutch Treaty face down on top of the Event II cards.
-- Then shuffle the Event I cards and deal 3 face down on top of the Treaty.
-- Finally, place the Singapore Treaty face down on the pile.
+- Shuffle the Event II cards, then deal 3 face down onto the Events space.
+- Then shuffle the Event I cards and deal 3 face down on top of the Event II cards.
+- Place the Singapore Treaty face down on top of the Event I cards.
+- Place the Anglo-Dutch Treaty **face up** on the Treaty space.
 
 Put the rest of the Event cards away.
 

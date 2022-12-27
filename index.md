@@ -47,7 +47,9 @@ We recommend you first play **Fantasy Mode**.
 ## A Historical Notanda
 *1819* is a game of politics. The political toolbox available to players is determined by the Treaty currently in effect.
 
-When the British Agents initially arrived in the Malayan Straits --- a corner of which is now known as *Singapura*, Singapore --- they were initially allied with the local Malay Rajas against their common rivals, the Dutch and the Bugis. This alliance was cemented by the Singapore Treaty of 1819. Thus, at the start of the game, **War** is rather costly.
+When the British Agents initially arrived in the Malayan Straits --- a corner of which is now known as *Singapura*, Singapore --- they were initially allied with the local Malay Rajas against their common rivals, the Dutch and the Bugis. This alliance was cemented by the Singapore Treaty of 1819. Thus, at the start of the game, players cannot access their stronger, more destructive Battle cards.
+
+<!-- Thus, at the start of the game, **War** is rather costly. -->
 
 However, halfway through the game, the Anglo-Dutch Treaty makes peace between the Dutch and the British Agents, who no longer need to appease the Malay Rajas. The Singapore Treaty is overruled, the Rajas lose their leverage, and the threat of War looms larger on the horizon...
 

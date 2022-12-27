@@ -17,7 +17,8 @@ After the Anglo-Dutch Treaty, the cost of War drops to 4 tokens.
 2. Attacker and Defender may each accept up to **one ally's help**.
 3. Each player involved in War commits up to one Battle card.
 4. The Attacker and Defender each roll 2 dice, then reveal any face-down Battle cards.
-5. Whoever has the higher total Strength **(die roll + faction Battle card/s)** wins!
+
+Whoever has the higher total Strength **(die roll + faction Battle card/s)** wins!
 
 ## The Aftermath
 

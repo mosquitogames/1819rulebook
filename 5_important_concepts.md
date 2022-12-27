@@ -107,7 +107,7 @@ To **Fund** a Public Work, pay **$1 \\(\times\\) Upkeep Multiplier**, where the 
 When Public Works are unfunded, their physical structures --- while still standing --- must be shuttered, and the workers tending to its functions must leave.
 
 To **Close** a Public Work:
-1. Flip any one Public Works card in your Tableau face down.
+1. Flip any one Public Works card in your tableau face down.
 2. Remove the unfunded token from the Public Works track.
 3. Discard any attached Population cards.
 4. Remove the corresponding number of Population cubes from the board.
@@ -116,7 +116,7 @@ A face-down Public Work cannot be Activated. If the Public Work was part of a Co
 
 ![Closing](img/closing.jpg)
 
-> *Example.* Your Tableau had one Community, consisting of G.D. Coleman, School, and Resident.
+> *Example.* Your tableau had one Community, consisting of G.D. Coleman, School, and Resident.
 - During Upkeep, you were unable to fund your School.
 - So you flip the card over and discard the Population card and player tokens.
 - You also remove one Public Work token from the track.
@@ -131,18 +131,26 @@ On your turn, you may **Rebuild** a Public Work by paying its cost as a Free Act
 
 ## Moving cards
 
-You can move **standalone cards** and **cards at the edges of Communities**. With **one move**, you can:
+### Population cards
+{: .no_toc }
+
+With **one move**, you can move a Population card to any vacant Population slot in the same tableau.
+
+### Market and Leader cards
+{: .no_toc }
+
+You can move Market and Leader cards that are **standalone** or **at the edge of a Community**. With **one move**, you can:
 - Connect a standalone card to a Community.
 - Separate a card from a Community.
 - Separate a card from one Community and connect it to another.
 
-Population cards move with the card they are attached to. Alternatively, you can also move **Population cards** themselves to any card with sufficient Population slots.
+In this case,Population cards move with the card they are attached to.
 
-Cards cannot move between players' Tableaus. One move must be completed before the next one can begin. You may make fewer moves than specified, or opt not to move any card.
+Cards cannot move *between* tableaus. One move must be completed before the next one can begin. You may make fewer moves than specified, or opt not to move any card.
 
 ![Move card](img/move.jpg)
 
-> *Example.* You have a Community of three cards and one standalone card in your Tableau. You may move any card except School. With 1 move, you can:
+> *Example.* You have a Community of three cards and one standalone card in your tableau. You may move any card except School. With 1 move, you can:
 - Connect Sports Day (together with Orang Laut) to G.D. Coleman; or
 - Separate the Resident from School; or
 - Separate the Resident from School and connect him to Sports Day; or

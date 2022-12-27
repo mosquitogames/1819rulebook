@@ -9,13 +9,13 @@ nav_order: 2
 
 Draw the top card of the Population deck, then:
 1. Resolve any [instant effects](important-concepts#instant-effects);
-2. Place the card in a vacant Population slot in your Tableau.
+2. Place the card in a vacant Population slot in your tableau.
 
-**If your Tableau has no vacant Population slots, you may not Populate!**
+**If your tableau has no vacant Population slots, you may not Populate!**
 
 ![Population cards](img/population_tableau.jpg)
 
-> *Example.* Your Tableau has 2 cards: the Sultan and the Newspaper.
+> *Example.* Your tableau has 2 cards: the Sultan and the Newspaper.
 - The Teochews Population card occupies the Sultan's only Population slot.
 - Newspaper has one free slot, allowing you to Populate it with the Javanese.
 

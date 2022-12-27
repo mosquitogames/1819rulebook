@@ -13,7 +13,7 @@ nav_order: 1
 Buy one available card from the Market, then:
 
 1. Resolve any [instant effects](important-concepts#instant-effects);
-2. Add the card to your Tableau, making at most one connection; then
+2. Add the card to your tableau, making at most one connection; then
 3. Shift all face-up cards to the right, and draw the top card of the Market deck to fill the leftmost space.
 
 ## Anatomy of a Market card
@@ -29,7 +29,7 @@ Buy one available card from the Market, then:
 | Symbol | Meaning |
 | :---: | :---: |
 | ![Influence](img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](important-concepts#placing-influence). |
-| ![Move](img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> Tableau. See [Moving cards](important-concepts#moving-cards). |
+| ![Move](img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](important-concepts#moving-cards). |
 | ![Wealth](img/icons/wealth.png) | Gain *x* amount of **Wealth**. |
 | ![Public Work](img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. See [Perform Upkeep](sequence-of-play#4-perform-upkeep). |
 | ![Tax and Philanthropy](img/icons/tax_philanthropy.png) | **Tax** card: Add *n* **Player** / <span style="color:green"><strong>Neutral</strong></span> tokens to Tax track. See [Perform Upkeep](sequence-of-play#4-perform-upkeep). |
@@ -45,7 +45,7 @@ Buy one available card from the Market, then:
 
 Connections can be made between Connectors with **opposite shapes** and **identical colors**. When you buy a Market card, make up to 1 valid connection.
 
-> *Example.* You have 4 cards in your Tableau:
+> *Example.* You have 4 cards in your tableau:
 - Cathedral and Hajjah Fatimah are connected.
 - Alexander Guthrie and Sports Day *could have been* connected, using Guthrie's left Connector.
 

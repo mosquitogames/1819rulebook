@@ -52,7 +52,7 @@ Rajas may confer briefly, before simultaneously declaring their Roles by reveali
 Rajas must declare their allegiance by revealing one of the two Role cards, after which the following rule modifiers apply:
 
 ### Colonial Ally
-1. Gain **+$2 more Income**.
+1. Gain **+$1 Income**.
     - *Place your Player token on the Port track as a reminder.*
 2. You may purchase dual-cost Market cards at their British cost +$1.
 3. Your Influence tokens now generate VPs in **all Districts**.

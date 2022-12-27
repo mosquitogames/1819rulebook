@@ -8,18 +8,29 @@ nav_order: 2
 ## Game Flow
 
 1819 Singapore is played over a series of eight rounds or fewer. Each round proceeds as follows:
-1. [Draw new Event card](#1-draw-new-event-card);
+1. [Events](#1-events);
 2. [Distribute Income](#2-distribute-income);
 3. [Take Player turns](#3-take-player-turns);
 4. [Perform Upkeep](#4-perform-upkeep); and
 5. [Cleanup](#5-cleanup).
 
-## 1. Draw new Event card
+## 1. Events
 
-- In the first round, reveal the Singapore Treaty and place two Ships on the Port track.
-- In succeeding rounds, reveal the top Event card and resolve any [instant effects](important-concepts#instant-effects) before proceeding. 
+### a. Check Ships
+- In the first round, skip this step.
+- In succeeding rounds, count the Ships in the Port.
+    - If there are **at least seven** Ships, discard the Singapore Treaty.
+    - The Anglo-Dutch Treaty is now in effect.
 
-See [Events](events).
+*Note: Once the Anglo-Dutch Treaty is signed, skip this step going forward---the Treaty cannot be unsigned!*
+
+### b. Draw new Event card
+- In the first round, reveal the Singapore Treaty onto the Treaty space. Add two Ships to the Port.
+- In succeeding rounds, reveal the top Event card onto the Current space. Resolve any [instant effects](important-concepts#instant-effects) before proceeding.
+
+*Note: The effects of the Anglo-Dutch Treaty are public knowledge---players may refer to the card even while covered by the Singapore Treaty.*
+
+Also see [Events](events).
 
 ## 2. Distribute Income
 
@@ -55,7 +66,7 @@ The Core Actions are:
 - Issue a **Decree**
 - Declare **War** *(counts as two Actions)*
 
-See [Core Actions]actions). 
+See [Core Actions](actions). 
 
 Other Actions may become available to you as the game progresses. The same Action may be taken twice, unless otherwise specified.
 
