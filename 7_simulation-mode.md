@@ -18,14 +18,12 @@ Follow [the usual setup](setup) until step H, then:
 {: .no_toc }
 
 - Malay faction:
-    - Put away the Mythic cards.
+    - Put away Battle cards marked &#9733;.
     - Shuffle the remaining Malay Battle cards and place them face down on the appropriate space.
     - Have each Raja draw 1 card.
 - British faction:
     - Put away one +3 and one +4 Artillery.
-    - Set aside the four ships from the British Battle deck.
-    - Shuffle the remaining cards. Have each Agent draw 1 card. 
-    - Shuffle the four ships back in, and place the deck face down on the appropriate space.
+    - Have each Agent draw 1 card.
 
 ### I. Role cards
 {: .no_toc }
