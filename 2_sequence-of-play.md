@@ -11,7 +11,7 @@ nav_order: 2
 1. [Events](#1-events);
 2. [Distribute Income](#2-distribute-income);
 3. [Take Player turns](#3-take-player-turns);
-4. [Perform Upkeep](#4-perform-upkeep); and
+4. [Check and resolve Upkeep](#4-check-and-resolve-upkeep); and
 5. [Cleanup](#5-cleanup).
 
 ## 1. Events
@@ -78,7 +78,7 @@ Other Actions may become available to you as the game progresses. The same Actio
 
 <!-- *3-player game: the solo player takes 3 actions per turn.* -->
 
-## 4. Perform Upkeep
+## 4. Check and resolve Upkeep
 
 All players receive 1 VP per Tax token of theirs on the board.
 

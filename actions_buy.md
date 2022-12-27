@@ -31,8 +31,8 @@ Buy one available card from the Market, then:
 | ![Influence](img/icons/influence.png) | Place *n* **Influence** tokens on Districts. See [Placing Influence](important-concepts#placing-influence). |
 | ![Move](img/icons/move.png) | **Move** *n* cards in **your own** / <span style="color:red"><strong>any player's</strong></span> tableau. See [Moving cards](important-concepts#moving-cards). |
 | ![Wealth](img/icons/wealth.png) | Gain *x* amount of **Wealth**. |
-| ![Public Work](img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. Add Ship if indicated. See [Perform Upkeep](sequence-of-play#4-perform-upkeep). |
-| ![Tax and Philanthropy](img/icons/tax_philanthropy.png) | **Tax** card: Add *n* **Player** / <span style="color:green"><strong>Neutral</strong></span> tokens to Tax track. See [Perform Upkeep](sequence-of-play#4-perform-upkeep). |
+| ![Public Work](img/icons/public_works.png) | **Public Works** card: Add Player token to Public Works track. Add Ship if indicated. See [Upkeep](sequence-of-play#4-check-and-resolve-upkeep). |
+| ![Tax and Philanthropy](img/icons/tax_philanthropy.png) | **Tax** card: Add *n* **Player** / <span style="color:green"><strong>Neutral</strong></span> tokens to Tax track. See [Upkeep](sequence-of-play#4-check-and-resolve-upkeep). |
 | ![Special](img/icons/special.png) | **Special Action** as described on card. |
 
 - **C. Population slots.** Cards with Population symbols can accommodate Population cards. Some Actions depend on the number of Population cards attached.
