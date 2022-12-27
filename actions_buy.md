@@ -19,7 +19,7 @@ Buy one available card from the Market, then:
 ## Anatomy of a Market card
 {: .no_toc }
 
-![Market cards](img/market_card_anatomy.jpg)
+![Market cards](img/4_buy_market_card_anatomy.jpg)
 
 - **A. Price.** Some cards have distinct prices for British Agents (blue) and Malay Rajas (green).
 > *Example.* Natural History Drawings and Police Force cost $3 for all players. Syed Omar Aljunied costs Agents $4, but Rajas only $2.
@@ -41,7 +41,7 @@ Buy one available card from the Market, then:
 
 - **D. Connectors.** Connectors allow cards to be organized into Communities, powerful groups of cards that can be Activated all at once.
 
-![Community](img/community.jpg)
+![Community](img/4_buy_community.jpg)
 
 Connections can be made between Connectors with **opposite shapes** and **identical colors**. When you buy a Market card, make up to 1 valid connection.
 
@@ -60,7 +60,7 @@ To make, break, or change connections after purchase, use [the Move action](impo
     - **Boosts** are passives or special modifiers that take effect as soon as the card is bought.
     - **End Game bonuses** provide additional ways to earn VPs once the game ends.
 
-![Vice and Slavery](img/vice_slavery.jpg)
+![Vice and Slavery](img/4_buy_vice_slavery.jpg)
 - **F. Skull icons.** Market cards with skull icons are Vice or Slavery cards, and can be outlawed by Decrees.
 
 | Symbol | Meaning |
@@ -75,7 +75,7 @@ Pay **$2** to draw the top card of your faction's Battle deck. Keep Battle cards
 ## Anatomy of a Battle card
 {: .no_toc }
 
-![Battle cards](img/battle_card_anatomy.jpg)
+![Battle cards](img/4_buy_battle_card_anatomy.jpg)
 - **A. Card back.** British Battle cards have blue backs, while Malay Battle cards have green backs.
 - **B. Strength.** Card strengths range from 0 to 9.
 - **C. Star icon.** Battle cards marked &#9733; can only be used or revealed **after** the Anglo-Dutch Treaty takes effect.

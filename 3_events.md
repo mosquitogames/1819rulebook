@@ -7,11 +7,11 @@ nav_order: 3
 
 ## Anatomy of an Event card
 
-![Event cards](img/events_anatomy.jpg)
+![Event cards](img/3_events_anatomy.jpg)
 
-- **A. Card back.** Event I's happen before the Anglo-Dutch Treaty. Event II's happen after.
+- **A. Card back.** Event I's happen before Event II's.
 - **B. Instant effects.** These are immediately resolved from top to bottom upon revealing the Event.
-> *Example.* Upon reveal of Major Economic Boom, each player takes an open card from the Market, as described by the text highlighted white. Then two ships are added to the Port.
+> *Example.* Upon reveal of Minor Economic Recession, a token is removed from each Storehouse *(white text)*, then a Ship is removed from the Port *(yellow text)*.
 
 | Symbol | Meaning |
 | :---: | :---: |

@@ -36,7 +36,7 @@ Shuffle the Folk Hero deck and place it face down near the board.
 ### Tabletopia setup
 On Tabletopia, most setup is done for you. For Simulation Mode:
 - determine the First Player and hand them the token;
-- draw Battle cards, then place the British ships back in the Battle deck; and
+- draw Battle cards; and
 - stack the Event cards.
 
 On your first round, Event and Income have been settled for you. Proceed to [Take Player turns](sequence-of-play#3-take-player-turns).

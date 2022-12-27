@@ -13,7 +13,7 @@ Draw the top card of the Population deck, then:
 
 **If your tableau has no vacant Population slots, you may not Populate!**
 
-![Population cards](img/population_tableau.jpg)
+![Population cards](img/4_populate_tableau.jpg)
 
 > *Example.* Your tableau has 2 cards: the Sultan and the Newspaper.
 - The Teochews Population card occupies the Sultan's only Population slot.
