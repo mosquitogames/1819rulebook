@@ -6,9 +6,11 @@ nav_order: 1
 ---
 # Setup
 
-This setup is for Fantasy Mode. We recommend your first game be in Fantasy Mode. To set up Simulation Mode, follow steps A to G below, then carry out the modified steps [here](simulation-mode#setup-changes).
+This setup is for Fantasy Mode. We recommend your first game be in Fantasy Mode.
 
-For Tabletopia setup, see [Tabletopia setup](#tabletopia-setup).
+- To set up Simulation Mode, follow steps A to G below, then carry out the modified steps [here](simulation-mode#setup-changes).
+- To play a game without depictions of slavery, refer to [Playing without slavery](#playing-without-slavery).
+- For Tabletopia setup, see [Tabletopia setup](#tabletopia-setup).
 
 ## Player Setup
 
@@ -92,9 +94,22 @@ Shuffle each faction's Battle deck and place them face down on the appropriate s
 
 ***
 
+### Playing without slavery
+*1819* contains two cards that represent common kinds of slavery practiced in 19th-century Malacca.
+
+**Players may remove these two cards without greatly affecting gameplay.**
+
+![Slavery cards](img/1_setup_slavery_cards.jpg)
+
+*Later on, we will write a more in-depth discussion of slavery in early colonial Singapore that may better illuminate our decision to include these cards. For now, suffice to say that we include these cards in support of some of our cornerstone historical arguments:*
+- *that early Singapore was funded, in no small part, through the production of goods we might call vices today, using labor practices considered exploitative even at the time;*
+- *that the practices and motivations for slavery in 19th-century Malacca were different from the Transatlantic context, as were the pathways to its criminalization and slave emancipation; and*
+- *that the British outlawing of vices and exploitative labor practices was strategic more than moral, and more often than not in favor of entrenching its colonial powers at the expense of local leaders.*
+
 ### Tabletopia setup
-On Tabletopia, most setup is done for you. For Fantasy Mode:
+On Tabletopia, most setup is done for you. Select the Mode you wish to play, then:
 - determine the First Player and hand them the token;
+- shuffle Slavery cards into the Market (if you wish);
 - draw Battle cards; and
 - stack the Event cards.
 
