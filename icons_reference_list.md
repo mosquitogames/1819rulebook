@@ -17,5 +17,5 @@ nav_order: 8
 | ![Special](img/icons/special.png) | **Special Action** as described on card. |
 | ![Vice and Slavery](img/icons/vice_slavery.png) | **Vice** / <span style="color:red"><strong>Slavery</strong></span> card: Can be outlawed. See [Decree](decree).  |
 | ![Instant and Conflict](img/icons/instant_conflict.png) | Resolve the **Event** / <span style="color:red"><strong>Conflict</strong></span>. See [Conflict Events Table](conflict-events-table). |
-| ![Ship](img/icons/add_ship.png) | Add or remove **Ships** from Port track. |
+| ![Ship](img/icons/add_ship.png) | Add or remove **Ships** from Port. |
 | ![Star](img/icons/star.png) | May only be used or revealed **after Anglo-Dutch Treaty**. |

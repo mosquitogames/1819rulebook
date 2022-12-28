@@ -16,6 +16,6 @@ nav_order: 3
 | Symbol | Meaning |
 | :---: | :---: |
 | ![Instant and Conflict](img/icons/instant_conflict.png) | Resolve the **Event** / <span style="color:red"><strong>Conflict</strong></span>. See [Conflict Events Table](conflict-events-table). |
-| ![Ship](img/icons/add_ship.png) | Add or remove **Ships** from Port track. |
+| ![Ship](img/icons/add_ship.png) | Add or remove **Ships** from Port. |
 
 - **C. Round modifiers.** These are highlighted in **black**, and remain in effect until the next Event card is revealed.

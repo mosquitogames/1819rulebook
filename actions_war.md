@@ -16,6 +16,7 @@ After the Anglo-Dutch Treaty, the cost of War drops to 4 tokens.
 1. Faction allies may volunteer to **Join** the War.
 2. Attacker and Defender may each accept up to **one ally's help**.
 3. Each player involved in War commits up to one Battle card.
+    - *Note: Cards marked &#9733; may only be used or revealed after the Anglo-Dutch Treaty takes effect, and at least seven Ships are in the Port.*
 4. The Attacker and Defender each roll 2 dice, then reveal any face-down Battle cards.
 
 Whoever has the higher total Strength **(die roll + faction Battle card/s)** wins!

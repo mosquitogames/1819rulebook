@@ -10,6 +10,6 @@ nav_order: 4
 To go on a Raid:
 - Roll 1 die and gain that many dollars.
 - Apply any modifiers.
-- If the final result is 2 or higher, remove one Ship from the Port track. 
+- If the final result is 2 or higher, remove one Ship from the Port. 
 
 **You may not Raid if there are no Ships in Port!**

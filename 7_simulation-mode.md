@@ -45,7 +45,7 @@ Rajas must declare their allegiance by revealing one of the two Role cards, afte
 
 ### Colonial Ally
 1. Gain **+$1 Income**.
-    - *Place your Player token on the Port track as a reminder.*
+    - *Place your Player token in the Port as a reminder.*
 2. You may purchase dual-cost Market cards at their British cost +$1.
 3. Your Influence tokens now generate VPs in **all Districts**.
 4. You may no longer **Declare** or **Join** Wars.

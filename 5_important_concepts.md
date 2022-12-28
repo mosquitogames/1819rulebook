@@ -52,7 +52,7 @@ When a District contains at least 5 Influence tokens at the end of an Influence 
 1. Check the District's color. Agents only score VPs from blue Districts, while Rajas only score VPs from green Districts.
 2. If you are eligible, count how many of **your** tokens are on the District. Gain **(District Multiplier)** VPs per token.
 3. Clear the District of all tokens. Return tokens to players.
-4. If the District has a ship icon, add a Ship to the Port track.
+4. If the District has a ship icon, add a Ship to the Port.
 
 ![Scoring Districts](img/5_concepts_districts_4.jpg)
 

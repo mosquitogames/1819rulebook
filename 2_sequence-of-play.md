@@ -25,8 +25,8 @@ nav_order: 2
 *Note: Once the Anglo-Dutch Treaty is signed, skip this step going forward---the Treaty cannot be unsigned!*
 
 ### b. Draw new Event card
-- In the first round, reveal the Singapore Treaty onto the Treaty space. Add two Ships to the Port.
-- In succeeding rounds, reveal the top Event card onto the Current space. Resolve any [instant effects](important-concepts#instant-effects) before proceeding.
+- In the first round, reveal the Singapore Treaty. Place it face up on the **Treaty** space, on top of the Anglo-Dutch Treaty. Add two Ships to the Port.
+- In succeeding rounds, reveal the top Event card onto the **Current** space. Resolve any [instant effects](important-concepts#instant-effects) before proceeding.
 
 *Note: The effects of the Anglo-Dutch Treaty are public knowledge---players may refer to the card even while covered by the Singapore Treaty.*
 
@@ -39,7 +39,7 @@ Also see [Events](events).
 
 ![Income with cubes](img/2_sequence_income.jpg)
 
-> *Example.* There are four Ships on the Port track. Hand each player $3, and place one Neutral token in each Storehouse.
+> *Example.* There are four Ships in the Port. Hand each player $3, and place one Neutral token in each Storehouse.
 
 ## 3. Take Player turns
 Play proceeds clockwise from the First Player. On your turn, do the following:
