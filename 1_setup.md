@@ -18,7 +18,7 @@ This setup is for Fantasy Mode. We recommend your first game be in Fantasy Mode.
 
 ### A. Boards, Leader cards and mini-figures
 
-Hand each player a board and corresponding Leader card. For your first game, use the illustrated side of the player board.
+Hand each player a board, Leader card, and corresponding mini-figure. For your first game, use the illustrated side of the player board.
 
 <!-- Players on the same faction sit beside each other. -->
 <!-- Leader spaces give players Leader Actions that reflect their priorities for the round. -->
@@ -40,11 +40,13 @@ On the board, player tokens represent Influence. Filling Districts with Influenc
 
 Off the board, player tokens are also used as trackers for Legacies and the like.
 
-![First Player token](img/1_setup_fp_token.jpg)
+![Dice and First Player token](img/1_setup_dice_fp_token.jpg)
 
-### C. First Player token
+### C. Dice and First Player token
 
-Hand the player who rolls the highest the First Player token.
+*1819* is played with a pair of dice ("2D"), each with values {0, 1, 2}.
+
+Hand the player who rolls the highest on 2D, the First Player token.
 
 ## Board Setup
 

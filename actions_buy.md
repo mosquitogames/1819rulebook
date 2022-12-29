@@ -78,7 +78,7 @@ Pay **$2** to draw the top card of your faction's Battle deck. Keep Battle cards
 ![Battle cards](img/4_buy_battle_card_anatomy.jpg)
 - **A. Card back.** British Battle cards have blue backs, while Malay Battle cards have green backs.
 - **B. Strength.** Card strengths range from 0 to 9.
-- **C. Star icon.** Cards marked &#9733; may only be used or revealed:
+- **C. Star icon.** Cards marked &#9733; may only be used **in War**:
     - after the Anglo-Dutch Treaty takes effect;
     - if at least seven Ships are in the Port.
 - **D. Reveal Boost.** As a Free Action, reveal your Battle card and place it in your tableau face-up. The Reveal Boost remains in effect so long as the Battle card is in your tableau.

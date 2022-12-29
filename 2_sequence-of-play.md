@@ -19,10 +19,12 @@ nav_order: 2
 ### a. Check Ships
 - In the first round, skip this step.
 - In succeeding rounds, count the Ships in the Port.
-    - If there are **at least seven** Ships, discard the Singapore Treaty.
-    - The Anglo-Dutch Treaty is now in effect.
+    - If there are at least **7 Ships**, discard the **Singapore Treaty** *(as indicated by the &#9733; on the seventh Port space)*.
+    - The **Anglo-Dutch Treaty** is now in effect.
 
 *Note: Once the Anglo-Dutch Treaty is signed, skip this step going forward---the Treaty cannot be unsigned!*
+
+![Ship check](img/2_sequence_ship_check.jpg)
 
 ### b. Draw new Event card
 - In the first round, reveal the Singapore Treaty. Place it face up on the **Treaty** space, on top of the Anglo-Dutch Treaty. Add two Ships to the Port.
@@ -36,7 +38,7 @@ Also see [Events](events).
 
 ## 2. Distribute Income
 
-- In the first round, hand each player $3.
+- In the first round, hand each player $3 *(as the 2 Ships from the Singapore Treaty place the highest occupied Port space in the $3 band.)*
 
 ![Starting Income](img/2_sequence_starting_income.jpg)
 
