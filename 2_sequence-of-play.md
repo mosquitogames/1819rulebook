@@ -28,6 +28,8 @@ nav_order: 2
 - In the first round, reveal the Singapore Treaty. Place it face up on the **Treaty** space, on top of the Anglo-Dutch Treaty. Add two Ships to the Port.
 - In succeeding rounds, reveal the top Event card onto the **Current** space. Resolve any [instant effects](important-concepts#instant-effects) before proceeding.
 
+![Reveal Singapore Treaty](img/2_sequence_singapore_treaty.jpg)
+
 *Note: The effects of the Anglo-Dutch Treaty are public knowledge---players may refer to the card even while covered by the Singapore Treaty.*
 
 Also see [Events](events).
@@ -35,6 +37,9 @@ Also see [Events](events).
 ## 2. Distribute Income
 
 - In the first round, hand each player $3.
+
+![Starting Income](img/2_sequence_starting_income.jpg)
+
 - In succeeding rounds, distribute Income and tokens as specified by the highest occupied Port space.
 
 ![Income with cubes](img/2_sequence_income.jpg)
