@@ -70,7 +70,11 @@ To make, break, or change connections after purchase, use [the Move action](impo
 
 ## Buy Battle card
 
-Pay **$2** to draw the top card of your faction's Battle deck. Keep Battle cards hidden in your hand. 
+Pay:
+- **$2** to draw the top card of your faction's Battle deck, or
+- **$2 and 2 Storehouse tokens** to draw the top 2 cards, keep one, and discard the other.
+
+Keep Battle cards hidden in your hand. 
 
 ## Anatomy of a Battle card
 {: .no_toc }
