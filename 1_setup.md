@@ -63,10 +63,10 @@ Cover the x2 and x3 Districts with the four black markers. These Districts are c
 
 Separate the Event cards by their backs: Event I, Event II, and the Treaties.
 
-- Shuffle the Event II cards, then deal 3 face down onto the Events space.
+- Shuffle the Event II cards, then deal 4 face down onto the Events space.
 - Then shuffle the Event I cards and deal 3 face down on top of the Event II cards.
-- Place the Singapore Treaty face down on top of the Event I cards.
 - Place the Anglo-Dutch Treaty **face up** on the Treaty space.
+- Place the Singapore Treaty **face up** on top of the Anglo-Dutch Treaty.
 
 Put the rest of the Event cards away.
 
